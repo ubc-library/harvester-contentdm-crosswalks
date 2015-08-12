@@ -1,1 +1,110 @@
-{"title":{"property":"CollectionTitle","language":"English"},"varian":{"property":false,"language":false},"creato":{"property":"Creator","language":"English"},"coverb":{"property":false,"language":false},"date":{"property":"Date","language":"English"},"descri":{"property":"Description","language":"English"},"variaa":{"property":false,"language":false},"subjec":{"property":"Subject","language":"English"},"variab":{"property":false,"language":false},"transc":{"property":false,"language":false},"theme":{"property":false,"language":false},"chung":{"property":false,"language":false},"call":{"property":"UBCCallNumber","language":"English"},"langua":{"property":"Language","language":"English"},"publis":{"property":"Publisher","language":"English"},"resour":{"property":"DigitalResourceOriginalRecord","language":"English"},"permis":{"property":false,"language":"English"},"format":{"property":"FileFormat","language":false},"covera":{"property":false,"language":false},"rights":{"property":"Rights","language":"English"},"projec":{"property":false,"language":false},"fullrs":{"property":false,"language":false},"dmoclcno":{"property":false,"language":false},"dmcreated":{"property":false,"language":false},"dmmodified":{"property":false,"language":false},"dmrecord":{"property":"CatalogueRecord","language":"English"},"find":{"property":false,"language":false}}
+{
+    "title": {
+        "property": "CollectionTitle",
+        "language": "English"
+    },
+    "varian": {
+        "property": false,
+        "language": false
+    },
+    "creato": {
+        "property": "Creator",
+        "language": "English"
+    },
+    "coverb": {
+        "property": false,
+        "language": false
+    },
+    "date": {
+        "property": "Date",
+        "language": "English"
+    },
+    "descri": {
+        "property": "Description",
+        "language": "English"
+    },
+    "variaa": {
+        "property": false,
+        "language": false
+    },
+    "subjec": {
+        "property": "Subject",
+        "language": "English"
+    },
+    "variab": {
+        "property": false,
+        "language": false
+    },
+    "transc": {
+        "property": false,
+        "language": false
+    },
+    "theme": {
+        "property": false,
+        "language": false
+    },
+    "chung": {
+        "property": false,
+        "language": false
+    },
+    "call": {
+        "property": "UBCCallNumber",
+        "language": "English"
+    },
+    "langua": {
+        "property": "Language",
+        "language": "English"
+    },
+    "publis": {
+        "property": "Publisher",
+        "language": "English"
+    },
+    "resour": {
+        "property": "DigitalResourceOriginalRecord",
+        "language": "English"
+    },
+    "permis": {
+        "property": false,
+        "language": "English"
+    },
+    "format": {
+        "property": "FileFormat",
+        "language": false
+    },
+    "covera": {
+        "property": false,
+        "language": false
+    },
+    "rights": {
+        "property": "Rights",
+        "language": "English"
+    },
+    "projec": {
+        "property": false,
+        "language": false
+    },
+    "fullrs": {
+        "property": false,
+        "language": false
+    },
+    "dmoclcno": {
+        "property": false,
+        "language": false
+    },
+    "dmcreated": {
+        "property": "DateCreated",
+        "language": false
+    },
+    "dmmodified": {
+        "property": false,
+        "language": false
+    },
+    "dmrecord": {
+        "property": "CatalogueRecord",
+        "language": "English"
+    },
+    "find": {
+        "property": false,
+        "language": false
+    }
+}
