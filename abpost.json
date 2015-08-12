@@ -1,1 +1,114 @@
-{"title":{"property":"AggregatedSourceRepository","language":"English"},"altern":{"property":false,"language":false},"publis":{"property":false,"language":false},"subjec":{"property":false,"language":false},"date":{"property":false,"language":false},"dates":{"property":false,"language":false},"descri":{"property":false,"language":false},"freque":{"property":false,"language":false},"langua":{"property":false,"language":false},"notes":{"property":false,"language":false},"preced":{"property":false,"language":false},"succee":{"property":false,"language":false},"relati":{"property":false,"language":false},"reposi":{"property":false,"language":false},"rights":{"property":false,"language":false},"projec":{"property":false,"language":false},"type":{"property":false,"language":false},"format":{"property":false,"language":false},"genre":{"property":false,"language":false},"full":{"property":false,"language":false},"identi":{"property":false,"language":false},"abstra":{"property":false,"language":false},"fullrs":{"property":false,"language":false},"dmoclcno":{"property":false,"language":false},"dmcreated":{"property":false,"language":false},"dmmodified":{"property":false,"language":false},"dmrecord":{"property":false,"language":false},"find":{"property":false,"language":false}}
+{
+    "title": {
+        "property": "Title",
+        "language": "English"
+    },
+    "altern": {
+        "property": "AlternateTitle",
+        "language": "English"
+    },
+    "publis": {
+        "property": "Publisher",
+        "language": "English"
+    },
+    "subjec": {
+        "property": "Subject",
+        "language": "English"
+    },
+    "date": {
+        "property": "Date",
+        "language": "English"
+    },
+    "dates": {
+        "property": false,
+        "language": false
+    },
+    "descri": {
+        "property": "Description",
+        "language": "English"
+    },
+    "freque": {
+        "property": false,
+        "language": false
+    },
+    "langua": {
+        "property": "Language",
+        "language": "English"
+    },
+    "notes": {
+        "property": false,
+        "language": false
+    },
+    "preced": {
+        "property": false,
+        "language": false
+    },
+    "succee": {
+        "property": false,
+        "language": false
+    },
+    "relati": {
+        "property": false,
+        "language": false
+    },
+    "reposi": {
+        "property": false,
+        "language": false
+    },
+    "rights": {
+        "property": "Rights",
+        "language": "English"
+    },
+    "projec": {
+        "property": false,
+        "language": false
+    },
+    "type": {
+        "property": "Type",
+        "language": "English"
+    },
+    "format": {
+        "property": "FileFormat",
+        "language": "English"
+    },
+    "genre": {
+        "property": "Genre",
+        "language": "English"
+    },
+    "full": {
+        "property": false,
+        "language": false
+    },
+    "identi": {
+        "property": false,
+        "language": false
+    },
+    "abstra": {
+        "property": false,
+        "language": false
+    },
+    "fullrs": {
+        "property": false,
+        "language": false
+    },
+    "dmoclcno": {
+        "property": false,
+        "language": false
+    },
+    "dmcreated": {
+        "property": false,
+        "language": false
+    },
+    "dmmodified": {
+        "property": false,
+        "language": false
+    },
+    "dmrecord": {
+        "property": false,
+        "language": false
+    },
+    "find": {
+        "property": false,
+        "language": false
+    }
+}
