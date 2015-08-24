@@ -1,0 +1,118 @@
+{
+    "title": {
+        "property": "Title",
+        "language": "English"
+    },
+    "identi": {
+        "property": "Identifier",
+        "language": "English"
+    },
+    "subjec": {
+        "property": "Subject",
+        "language": false
+    },
+    "creato": {
+        "property": "Creator",
+        "language": false
+    },
+    "publis": {
+        "property": "Publisher",
+        "language": false
+    },
+    "date": {
+        "property": "Date",
+        "language": false
+    },
+    "descri": {
+        "property": "Description",
+        "language": false
+    },
+    "extent": {
+        "property": "Extent",
+        "language": false
+    },
+    "langua": {
+        "property": "Language",
+        "language": false
+    },
+    "notes": {
+        "property": "Annotation",
+        "language": false
+    },
+    "type": {
+        "property": "Type",
+        "language": false
+    },
+    "relati": {
+        "property": "Series",
+        "language": false
+    },
+    "data": {
+        "property": "Annotation",
+        "language": false
+    },
+    "format": {
+        "property": "FileFormat",
+        "language": false
+    },
+    "source": {
+        "property": "Source",
+        "language": false
+    },
+    "rights": {
+        "property": "Rights",
+        "language": false
+    },
+    "covera": {
+        "property": "Cover",
+        "language": false
+    },
+    "audien": {
+        "property": "Annotation",
+        "language": false
+    },
+    "chung": {
+        "property": "Annotation",
+        "language": false
+    },
+    "full": {
+        "property": "Annotation",
+        "language": false
+    },
+    "forms": {
+        "property": "Annotation",
+        "language": false
+    },
+    "detail": {
+        "property": "Annotation",
+        "language": false
+    },
+    "filena": {
+        "property": "Annotation",
+        "language": false
+    },
+    "fullrs": {
+        "property": "Annotation",
+        "language": false
+    },
+    "dmoclcno": {
+        "property": false,
+        "language": false
+    },
+    "dmcreated": {
+        "property": false,
+        "language": false
+    },
+    "dmmodified": {
+        "property": false,
+        "language": false
+    },
+    "dmrecord": {
+        "property": false,
+        "language": false
+    },
+    "find": {
+        "property": false,
+        "language": false
+    }
+}
