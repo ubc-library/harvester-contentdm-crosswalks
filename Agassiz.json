@@ -8,7 +8,7 @@
         "language": "English"
     },
     "creato": {
-        "property": "Creator",
+        "property": false,
         "language": "English"
     },
     "contri": {
