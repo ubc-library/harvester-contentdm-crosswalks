@@ -1,0 +1,166 @@
+{
+    "title": {
+        "property": "Title",
+        "language": "English"
+    },
+    "altern": {
+        "property": false,
+        "language": "English"
+    },
+    "creato": {
+        "property": false,
+        "language": "English"
+    },
+    "contri": {
+        "property": false,
+        "language": "English"
+    },
+    "publis": {
+        "property": false,
+        "language": "English"
+    },
+    "date": {
+        "property": false,
+        "language": "English"
+    },
+    "datei": {
+        "property": false,
+        "language": "English"
+    },
+    "sort": {
+        "property": false,
+        "language": "English"
+    },
+    "descri": {
+        "property": false,
+        "language": "English"
+    },
+    "formata": {
+        "property": false,
+        "language": "English"
+    },
+    "subjec": {
+        "property": false,
+        "language": "English"
+    },
+    "subjea": {
+        "property": false,
+        "language": "English"
+    },
+    "person": {
+        "property": false,
+        "language": "English"
+    },
+    "genre": {
+        "property": false,
+        "language": "English"
+    },
+    "type": {
+        "property": false,
+        "language": "English"
+    },
+    "format": {
+        "property": false,
+        "language": "English"
+    },
+    "langua": {
+        "property": false,
+        "language": "English"
+    },
+    "notes": {
+        "property": false,
+        "language": "English"
+    },
+    "ubc": {
+        "property": false,
+        "language": "English"
+    },
+    "identi": {
+        "property": false,
+        "language": "English"
+    },
+    "digita": {
+        "property": false,
+        "language": "English"
+    },
+    "relati": {
+        "property": false,
+        "language": "English"
+    },
+    "source": {
+        "property": false,
+        "language": "English"
+    },
+    "datea": {
+        "property": false,
+        "language": "English"
+    },
+    "publia": {
+        "property": false,
+        "language": "English"
+    },
+    "rights": {
+        "property": false,
+        "language": "English"
+    },
+    "licens": {
+        "property": false,
+        "language": "English"
+    },
+    "transc": {
+        "property": false,
+        "language": "English"
+    },
+    "catalo": {
+        "property": false,
+        "language": "English"
+    },
+    "projec": {
+        "property": false,
+        "language": "English"
+    },
+    "aip": {
+        "property": false,
+        "language": "English"
+    },
+    "file": {
+        "property": false,
+        "language": "English"
+    },
+    "latitu": {
+        "property": false,
+        "language": "English"
+    },
+    "longit": {
+        "property": false,
+        "language": "English"
+    },
+    "place": {
+        "property": false,
+        "language": "English"
+    },
+    "fullrs": {
+        "property": false,
+        "language": "English"
+    },
+    "dmoclcno": {
+        "property": false,
+        "language": "English"
+    },
+    "dmcreated": {
+        "property": false,
+        "language": "English"
+    },
+    "dmmodified": {
+        "property": false,
+        "language": "English"
+    },
+    "dmrecord": {
+        "property": false,
+        "language": "English"
+    },
+    "find": {
+        "property": false,
+        "language": "English"
+    }
+}
