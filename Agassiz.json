@@ -100,7 +100,7 @@
         "language": "English"
     },
     "rights": {
-        "property": "Rights",
+        "property": false,
         "language": "English"
     },
     "licens": {
