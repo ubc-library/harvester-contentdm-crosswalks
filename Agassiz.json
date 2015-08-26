@@ -20,7 +20,7 @@
         "language": "English"
     },
     "date": {
-        "property": false,
+        "property": "Date",
         "language": "English"
     },
     "datei": {
@@ -52,7 +52,7 @@
         "language": "English"
     },
     "genre": {
-        "property": false,
+        "property": "Genre",
         "language": "English"
     },
     "type": {
