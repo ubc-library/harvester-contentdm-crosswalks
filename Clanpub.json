@@ -1,11 +1,10 @@
 {
     "title": {
-        "property": "CollectionTitle",
         "language": "English"
     },
     "varian": {
         "property": false,
-        "language": false
+        "language": "English"
     },
     "creato": {
         "property": "Creator",
@@ -13,7 +12,7 @@
     },
     "coverb": {
         "property": false,
-        "language": false
+        "language": "English"
     },
     "date": {
         "property": "Date",
@@ -25,7 +24,7 @@
     },
     "variaa": {
         "property": false,
-        "language": false
+        "language": "English"
     },
     "subjec": {
         "property": "Subject",
@@ -33,22 +32,21 @@
     },
     "variab": {
         "property": false,
-        "language": false
+        "language": "English"
     },
     "transc": {
         "property": false,
-        "language": false
+        "language": "English"
     },
     "theme": {
         "property": false,
-        "language": false
+        "language": "English"
     },
     "chung": {
         "property": false,
-        "language": false
+        "language": "English"
     },
     "call": {
-        "property": "UBCCallNumber",
         "language": "English"
     },
     "langua": {
@@ -60,7 +58,6 @@
         "language": "English"
     },
     "resour": {
-        "property": "DigitalResourceOriginalRecord",
         "language": "English"
     },
     "permis": {
@@ -69,11 +66,11 @@
     },
     "format": {
         "property": "FileFormat",
-        "language": false
+        "language": "English"
     },
     "covera": {
         "property": false,
-        "language": false
+        "language": "English"
     },
     "rights": {
         "property": "Rights",
@@ -81,23 +78,23 @@
     },
     "projec": {
         "property": false,
-        "language": false
+        "language": "English"
     },
     "fullrs": {
         "property": false,
-        "language": false
+        "language": "English"
     },
     "dmoclcno": {
         "property": false,
-        "language": false
+        "language": "English"
     },
     "dmcreated": {
         "property": "DateCreated",
-        "language": false
+        "language": "English"
     },
     "dmmodified": {
         "property": false,
-        "language": false
+        "language": "English"
     },
     "dmrecord": {
         "property": "CatalogueRecord",
@@ -105,6 +102,6 @@
     },
     "find": {
         "property": false,
-        "language": false
+        "language": "English"
     }
 }
