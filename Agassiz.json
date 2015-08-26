@@ -32,7 +32,7 @@
         "language": "English"
     },
     "descri": {
-        "property": false,
+        "property": "Description",
         "language": "English"
     },
     "formata": {
@@ -60,7 +60,7 @@
         "language": "English"
     },
     "format": {
-        "property": false,
+        "property": "FileFormat",
         "language": "English"
     },
     "langua": {
@@ -76,7 +76,7 @@
         "language": "English"
     },
     "identi": {
-        "property": false,
+        "property": "Identifier",
         "language": "English"
     },
     "digita": {
@@ -136,7 +136,7 @@
         "language": "English"
     },
     "place": {
-        "property": false,
+        "property": "GeographicLocation",
         "language": "English"
     },
     "fullrs": {
