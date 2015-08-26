@@ -8,7 +8,7 @@
         "language": "English"
     },
     "creato": {
-        "property": false,
+        "property": "Creator",
         "language": "English"
     },
     "contri": {
@@ -16,7 +16,7 @@
         "language": "English"
     },
     "publis": {
-        "property": false,
+        "property": "Publisher",
         "language": "English"
     },
     "date": {
