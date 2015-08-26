@@ -4,7 +4,7 @@
         "language": "English"
     },
     "altern": {
-        "property": false,
+        "property": "AlternateTitle",
         "language": "English"
     },
     "creato": {
