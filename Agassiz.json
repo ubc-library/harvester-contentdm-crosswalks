@@ -3,27 +3,39 @@
         "property": "Title",
         "language": "English"
     },
-    "varian": {
-        "property": false,
+    "altern": {
+        "property": "AlternateTitle",
         "language": "English"
     },
     "creato": {
         "property": "Creator",
         "language": "English"
     },
-    "coverb": {
-        "property": false,
+    "contri": {
+        "property": "Contributor",
+        "language": "English"
+    },
+    "publis": {
+        "property": "Publisher",
         "language": "English"
     },
     "date": {
         "property": "Date",
         "language": "English"
     },
+    "datei": {
+        "property": false,
+        "language": "English"
+    },
+    "sort": {
+        "property": false,
+        "language": "English"
+    },
     "descri": {
         "property": "Description",
         "language": "English"
     },
-    "variaa": {
+    "formata": {
         "property": false,
         "language": "English"
     },
@@ -31,7 +43,67 @@
         "property": "Subject",
         "language": "English"
     },
-    "variab": {
+    "subjea": {
+        "property": false,
+        "language": "English"
+    },
+    "person": {
+        "property": false,
+        "language": "English"
+    },
+    "genre": {
+        "property": "Genre",
+        "language": "English"
+    },
+    "type": {
+        "property": "Type",
+        "language": "English"
+    },
+    "format": {
+        "property": "FileFormat",
+        "language": "English"
+    },
+    "langua": {
+        "property": false,
+        "language": "English"
+    },
+    "notes": {
+        "property": false,
+        "language": "English"
+    },
+    "ubc": {
+        "property": false,
+        "language": "English"
+    },
+    "identi": {
+        "property": "Identifier",
+        "language": "English"
+    },
+    "digita": {
+        "property": false,
+        "language": "English"
+    },
+    "relati": {
+        "property": false,
+        "language": "English"
+    },
+    "source": {
+        "property": false,
+        "language": "English"
+    },
+    "datea": {
+        "property": false,
+        "language": "English"
+    },
+    "publia": {
+        "property": false,
+        "language": "English"
+    },
+    "rights": {
+        "property": false,
+        "language": "English"
+    },
+    "licens": {
         "property": false,
         "language": "English"
     },
@@ -39,46 +111,32 @@
         "property": false,
         "language": "English"
     },
-    "theme": {
+    "catalo": {
         "property": false,
-        "language": "English"
-    },
-    "chung": {
-        "property": false,
-        "language": "English"
-    },
-    "call": {
-        "language": "English"
-    },
-    "langua": {
-        "property": "Language",
-        "language": "English"
-    },
-    "publis": {
-        "property": "Publisher",
-        "language": "English"
-    },
-    "resour": {
-        "language": "English"
-    },
-    "permis": {
-        "property": false,
-        "language": "English"
-    },
-    "format": {
-        "property": "FileFormat",
-        "language": "English"
-    },
-    "covera": {
-        "property": false,
-        "language": "English"
-    },
-    "rights": {
-        "property": "Rights",
         "language": "English"
     },
     "projec": {
         "property": false,
+        "language": "English"
+    },
+    "aip": {
+        "property": false,
+        "language": "English"
+    },
+    "file": {
+        "property": false,
+        "language": "English"
+    },
+    "latitu": {
+        "property": false,
+        "language": "English"
+    },
+    "longit": {
+        "property": false,
+        "language": "English"
+    },
+    "place": {
+        "property": "GeographicLocation",
         "language": "English"
     },
     "fullrs": {
@@ -90,7 +148,7 @@
         "language": "English"
     },
     "dmcreated": {
-        "property": "DateCreated",
+        "property": false,
         "language": "English"
     },
     "dmmodified": {
@@ -98,7 +156,7 @@
         "language": "English"
     },
     "dmrecord": {
-        "property": "CatalogueRecord",
+        "property": false,
         "language": "English"
     },
     "find": {
