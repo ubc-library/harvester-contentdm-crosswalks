@@ -1,0 +1,107 @@
+{
+    "title": {
+      "property" : "Title",
+      "language" : "en"
+    },
+    "zoom": false,
+    "altern": {
+      "property" : "AlternateTitle",
+      "language" : "en"
+    },
+    "japane": {
+      "property" : "Title",
+      "language" : "jp"
+    },
+    "altera": {
+      "property" : "AlternateTitle",
+      "language" : "en"
+    },
+    "creato": {
+      "property" : "Creator",
+      "language" : "en"
+    },
+    "other": {
+      "property" : "Contributor",
+      "language" : "en"
+    },
+    "publia": {
+      "property" : "Publisher",
+      "language" : "en"
+    },
+    "publis": {
+      "property" : "Publisher",
+      "language" : "en"
+    },
+    "access": {
+      "property" : "AccessionNumber",
+      "language" : "en"
+    },
+    "date": {
+      "property" : "Date",
+      "language" : "en"
+    },
+    "dateja": {
+      "property" : "Date",
+      "language" : "jp"
+    },
+    "subjec": {
+      "property" : "Subject",
+      "language" : "en"
+    },
+    "descri": {
+      "property" : "Description",
+      "language" : "en"
+    },
+    "genre": {
+      "property" : "Genre",
+      "language" : "en"
+    },
+    "type": {
+      "property" : "Type",
+      "language" : "en"
+    },
+    "format": {
+      "property" : "FileFormat",
+      "language" : "en"
+    },
+    "formaa": {
+      "property" : "Extent",
+      "language" : "en"
+    },
+    "identi": {
+      "property" : "UBCCallNumber",
+      "language" : "en"
+    },
+    "ubc": {
+      "property" : "CatalogueRecord",
+      "language" : "en"
+    },
+    "forms": {
+      "property" : "Collection",
+      "language" : "en"
+    },
+    "source": {
+      "property" : "Source",
+      "language" : "en"
+    },
+    "rights": {
+      "property" : "Rights",
+      "language" : "en"
+    },
+    "datedi": {
+      "property" : "DateAvailable",
+      "language" : "en"
+    },
+    "websit": {
+      "property" : "ProjectWebsite",
+      "language" : "en"
+    },
+    "fullrs": {
+      "property" : "Annotation",
+      "language" : "en"
+    },
+    "dmcreated": "",
+    "dmmodified": "",
+    "dmrecord": "",
+    "find": ""
+}
