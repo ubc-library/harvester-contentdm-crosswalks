@@ -1,0 +1,154 @@
+{
+    "title": {
+        "property": "Title",
+        "language": "English"
+    },
+    "altern": {
+        "property": "AlternateTitle",
+        "language": "English"
+    },
+    "creato": {
+        "property": "Creator",
+        "language": "English"
+    },
+    "contri": {
+        "property": "Contributor",
+        "language": "English"
+    },
+    "publia": {
+        "property": "Publisher",
+        "language": "English"
+    },
+    "date": {
+        "property": "DateCreated",
+        "language": "English"
+    },
+    "datea": {
+        "property": "DateIssued",
+        "language": "English"
+    },
+    "sort": {
+        "property": "Date",
+        "language": "English"
+    },
+    "descri": {
+        "property": "Description",
+        "language": "English"
+    },
+    "physic": {
+        "property": "Extent",
+        "language": "English"
+    },
+    "subjea": {
+        "property": "Subject",
+        "language": "English"
+    },
+    "subjeb": {
+        "property": "GeographicLocation",
+        "language": "English"
+    },
+    "subjec": {
+        "property": "PersonOrCorporation",
+        "language": "English"
+    },
+    "genre": {
+        "property": "Genre",
+        "language": "English"
+    },
+    "type": {
+        "property": "Type",
+        "language": "English"
+    },
+    "format": {
+        "property": "FileFormat",
+        "language": "English"
+    },
+    "langua": {
+        "property": "Language",
+        "language": "English"
+    },
+    "notes": {
+        "property": "Annotation",
+        "language": "English"
+    },
+    "ubc": {
+        "property": "Identifier",
+        "language": "English"
+    },
+    "access": {
+        "property": "Identifier",
+        "language": "English"
+    },
+    "identi": {
+        "property": "Identifier",
+        "language": "English"
+    },
+    "relati": {
+        "property": "Series",
+        "language": "English"
+    },
+    "source": {
+        "property": "Source",
+        "language": "English"
+    },
+    "datedi": {
+        "property": "DateAvailable",
+        "language": "English"
+    },
+    "publis": {
+        "property": "Publisher",
+        "language": "English"
+    },
+    "rights": {
+        "property": "Rights",
+        "language": "English"
+    },
+    "licens": {
+        "property": "License",
+        "language": "English"
+    },
+    "transc": {
+        "property": "Translation",
+        "language": "English"
+    },
+    "catalo": {
+        "property": "CatalogueRecord",
+        "language": "English"
+    },
+    "projec": {
+        "property": "ProjectWebsite",
+        "language": "English"
+    },
+    "aip": {
+        "property": "Identifier",
+        "language": "English"
+    },
+    "file": {
+        "property": "Identifier",
+        "language": "English"
+    },
+    "fullrs": {
+        "property": false,
+        "language": "English"
+    },
+    "dmoclcno": {
+        "property": false,
+        "language": "English"
+    },
+    "dmcreated": {
+        "property": false,
+        "language": "English"
+    },
+    "dmmodified": {
+        "property": false,
+        "language": "English"
+    },
+    "dmrecord": {
+        "property": false,
+        "language": "English"
+    },
+    "find": {
+        "property": false,
+        "language": "English"
+    }
+}
