@@ -108,7 +108,7 @@
         "language": "English"
     },
     "transc": {
-        "property": "Translation",
+        "property": "FullText",
         "language": "English"
     },
     "catalo": {
