@@ -28,7 +28,7 @@
         "language": "English"
     },
     "sort": {
-        "property": "Date",
+        "property": "SortDate",
         "language": "English"
     },
     "descri": {
