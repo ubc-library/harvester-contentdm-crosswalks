@@ -1,107 +1,124 @@
 {
     "title": {
-      "property" : "Title",
-      "language" : "en"
-    },
-    "zoom": false,
-    "altern": {
-      "property" : "AlternateTitle",
-      "language" : "en"
+        "property": "Title",
+        "language": "en"
     },
     "japane": {
-      "property" : "Title",
-      "language" : "jp"
+        "property": "Title",
+        "language": "ja"
+    },
+    "altern": {
+        "property": "AlternateTitle",
+        "language": "en"
     },
     "altera": {
-      "property" : "AlternateTitle",
-      "language" : "jp"
+        "property": "AlternateTitle",
+        "language": "ja"
     },
     "creato": {
-      "property" : "Creator",
-      "language" : "en"
+        "property": "Creator",
+        "language": "en"
     },
     "other": {
-      "property" : "Contributor",
-      "language" : "en"
+        "property": "Contributor",
+        "language": "en"
     },
     "publia": {
-      "property" : "Publisher",
-      "language" : "en"
-    },
-    "publis": {
-      "property" : "Publisher",
-      "language" : "en"
-    },
-    "access": {
-      "property" : "AccessionNumber",
-      "language" : "en"
+        "property": "Publisher",
+        "language": "en"
     },
     "date": {
-      "property" : "Date",
-      "language" : "en"
+        "property": "Date",
+        "language": "en"
     },
     "dateja": {
-      "property" : "Date",
-      "language" : "jp"
-    },
-    "subjec": {
-      "property" : "Subject",
-      "language" : "en"
+        "property": "Date",
+        "language": "ja"
     },
     "descri": {
-      "property" : "Description",
-      "language" : "en"
-    },
-    "genre": {
-      "property" : "Genre",
-      "language" : "en"
-    },
-    "type": {
-      "property" : "Type",
-      "language" : "en"
-    },
-    "format": {
-      "property" : "FileFormat",
-      "language" : "en"
+        "property": "Description",
+        "language": "en"
     },
     "formaa": {
-      "property" : "Extent",
-      "language" : "en"
+        "property": "Extent",
+        "language": "en"
+    },
+    "subjec": {
+        "property": "Subject",
+        "language": "en"
+    },
+    "genre": {
+        "property": "Genre",
+        "language": "en"
+    },
+    "type": {
+        "property": "Type",
+        "language": "en"
+    },
+    "format": {
+        "property": "FileFormat",
+        "language": "en"
+    },
+    "zoom": {
+        "property": null,
+        "language": "en"
     },
     "identi": {
-      "property" : "UBCCallNumber",
-      "language" : "en"
+        "language": "en"
     },
-    "ubc": {
-      "property" : "CatalogueRecord",
-      "language" : "en"
+    "access": {
+        "language": "en"
     },
     "forms": {
-      "property" : "Collection",
-      "language" : "en"
+        "property": "Collection",
+        "language": "en"
     },
     "source": {
-      "property" : "Source",
-      "language" : "en"
-    },
-    "rights": {
-      "property" : "Rights",
-      "language" : "en"
+        "property": "Source",
+        "language": "en"
     },
     "datedi": {
-      "property" : "DateAvailable",
-      "language" : "en"
+        "property": "DateAvailable",
+        "language": "en"
+    },
+    "publis": {
+        "property": "Publisher",
+        "language": "en"
+    },
+    "rights": {
+        "property": "Rights",
+        "language": "en"
+    },
+    "ubc": {
+        "property": "CatalogueRecord",
+        "language": "en"
     },
     "websit": {
-      "property" : "ProjectWebsite",
-      "language" : "en"
+        "property": "ProjectWebsite",
+        "language": "en"
     },
     "fullrs": {
-      "property" : "Annotation",
-      "language" : "en"
+        "property": "Annotation",
+        "language": "en"
     },
-    "dmcreated": "",
-    "dmmodified": "",
-    "dmrecord": "",
-    "find": ""
+    "dmoclcno": {
+        "property": null,
+        "language": false
+    },
+    "dmcreated": {
+        "property": null,
+        "language": "en"
+    },
+    "dmmodified": {
+        "property": null,
+        "language": "en"
+    },
+    "dmrecord": {
+        "property": null,
+        "language": "en"
+    },
+    "find": {
+        "property": null,
+        "language": "en"
+    }
 }
