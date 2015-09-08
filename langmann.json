@@ -1,154 +1,116 @@
 {
     "title": {
-        "property": "Title",
-        "language": "en"
+        "property": "Title"
     },
     "altern": {
-        "property": "AlternateTitle",
-        "language": "en"
+        "property": "AlternateTitle"
     },
     "creato": {
-        "property": "Creator",
-        "language": "en"
+        "property": "Creator"
     },
     "contra": {
-        "property": "Contributor",
-        "language": "en"
+        "property": "Contributor"
     },
     "publis": {
-        "property": "Publisher",
-        "language": "en"
+        "property": "Publisher"
     },
     "date": {
-        "property": "DateCreated",
-        "language": "en"
+        "property": "DateCreated"
     },
     "dateb": {
-        "property": "DateCreated",
-        "language": "en"
+        "property": "DateIssued"
     },
     "sort": {
-        "property": "SortDate",
-        "language": "en"
+        "property": "Date"
     },
     "descri": {
-        "property": "Description",
-        "language": "en"
+        "property": "Description"
     },
     "physic": {
-        "property": "Extent",
-        "language": "en"
+        "property": "Extent"
     },
     "subjec": {
-        "property": "Subject",
-        "language": "en"
+        "property": "Subject"
     },
     "subjea": {
-        "property": "GeographicLocation",
-        "language": "en"
+        "property": "GeographicLocation"
     },
     "person": {
-        "property": "Genre",
-        "language": "en"
+        "property": "Genre"
     },
     "genre": {
-        "property": "Genre",
-        "language": "en"
+        "property": "Genre"
     },
     "type": {
-        "property": "Type",
-        "language": "en"
+        "property": "Type"
     },
     "format": {
-        "property": "FileFormat",
-        "language": "en"
+        "property": "FileFormat"
     },
     "langua": {
-        "property": "Language",
-        "language": "en"
+        "property": "Language"
     },
     "contri": {
-        "property": "Contributor",
-        "language": "en"
+        "property": "Annotation"
     },
     "ubc": {
-        "property": "Identifier",
-        "language": "en"
+        "property": "Identifier"
     },
     "identi": {
-        "property": "Identifier",
-        "language": "en"
+        "property": "Identifier"
     },
     "digita": {
-        "property": false,
-        "language": "en"
+        "property": false
     },
     "relati": {
-        "property": "Series",
-        "language": "en"
+        "property": "Series"
     },
     "source": {
-        "property": "Source",
-        "language": "en"
+        "property": "Source"
     },
     "datea": {
-        "property": "DateAvailable",
-        "language": "en"
+        "property": "DateAvailable"
     },
     "publia": {
-        "property": "Publisher",
-        "language": "en"
+        "property": "Publisher"
     },
     "rights": {
-        "property": "Rights",
-        "language": "en"
+        "property": "Rights"
     },
     "licens": {
-        "property": false,
-        "language": "en"
+        "property": "License"
     },
     "transc": {
-        "property": "Annotation",
-        "language": "en"
+        "property": "Annotation"
     },
     "catalo": {
-        "property": "CatalogueRecord",
-        "language": "en"
+        "property": "CatalogueRecord"
     },
     "projec": {
-        "property": "Publisher",
-        "language": "en"
+        "property": "Publisher"
     },
     "aip": {
-        "property": "Identifier",
-        "language": "en"
+        "property": "Identifier"
     },
     "file": {
-        "property": "Identifier",
-        "language": "en"
+        "property": "Identifier"
     },
     "fullrs": {
-        "property": "Identifier",
-        "language": "en"
+        "property": "Identifier"
     },
     "dmoclcno": {
-        "property": false,
-        "language": "en"
+        "property": false
     },
     "dmcreated": {
-        "property": false,
-        "language": "en"
+        "property": false
     },
     "dmmodified": {
-        "property": false,
-        "language": "en"
+        "property": false
     },
     "dmrecord": {
-        "property": false,
-        "language": "en"
+        "property": false
     },
     "find": {
-        "property": false,
-        "language": "en"
+        "property": false
     }
 }
