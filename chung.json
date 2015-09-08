@@ -1,118 +1,118 @@
 {
     "title": {
         "property": "Title",
-        "language": "English"
+        "language": "en"
     },
     "identi": {
         "property": "Identifier",
-        "language": "English"
+        "language": "en"
     },
     "subjec": {
         "property": "Subject",
-        "language": false
+        "language": "en"
     },
     "creato": {
         "property": "Creator",
-        "language": false
+        "language": "en"
     },
     "publis": {
         "property": "Publisher",
-        "language": false
+        "language": "en"
     },
     "date": {
         "property": "Date",
-        "language": false
+        "language": "en"
     },
     "descri": {
         "property": "Description",
-        "language": false
+        "language": "en"
     },
     "extent": {
         "property": "Extent",
-        "language": false
+        "language": "en"
     },
     "langua": {
         "property": "Language",
-        "language": false
+        "language": "en"
     },
     "notes": {
         "property": "Annotation",
-        "language": false
+        "language": "en"
     },
     "type": {
         "property": "Type",
-        "language": false
+        "language": "en"
     },
     "relati": {
         "property": "Series",
-        "language": false
+        "language": "en"
     },
     "data": {
         "property": "Annotation",
-        "language": false
+        "language": "en"
     },
     "format": {
         "property": "FileFormat",
-        "language": false
+        "language": "en"
     },
     "source": {
         "property": "Source",
-        "language": false
+        "language": "en"
     },
     "rights": {
         "property": "Rights",
-        "language": false
+        "language": "en"
     },
     "covera": {
         "property": "Cover",
-        "language": false
+        "language": "en"
     },
     "audien": {
         "property": "Annotation",
-        "language": false
+        "language": "en"
     },
     "chung": {
         "property": "Annotation",
-        "language": false
+        "language": "en"
     },
     "full": {
         "property": "Annotation",
-        "language": false
+        "language": "en"
     },
     "forms": {
         "property": "Annotation",
-        "language": false
+        "language": "en"
     },
     "detail": {
         "property": "Annotation",
-        "language": false
+        "language": "en"
     },
     "filena": {
         "property": "Annotation",
-        "language": false
+        "language": "en"
     },
     "fullrs": {
         "property": "Annotation",
-        "language": false
+        "language": "en"
     },
     "dmoclcno": {
-        "property": false,
-        "language": false
+        "property": null,
+        "language": "en"
     },
     "dmcreated": {
-        "property": false,
-        "language": false
+        "property": null,
+        "language": "en"
     },
     "dmmodified": {
-        "property": false,
-        "language": false
+        "property": null,
+        "language": "en"
     },
     "dmrecord": {
-        "property": false,
-        "language": false
+        "property": null,
+        "language": "en"
     },
     "find": {
-        "property": false,
-        "language": false
+        "property": null,
+        "language": "en"
     }
 }
