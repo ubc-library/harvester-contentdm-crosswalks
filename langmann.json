@@ -1,154 +1,154 @@
 {
     "title": {
         "property": "Title",
-        "language": false
+        "language": "en"
     },
     "altern": {
         "property": "AlternateTitle",
-        "language": false
+        "language": "en"
     },
     "creato": {
         "property": "Creator",
-        "language": false
+        "language": "en"
     },
     "contra": {
         "property": "Contributor",
-        "language": false
+        "language": "en"
     },
     "publis": {
         "property": "Publisher",
-        "language": false
+        "language": "en"
     },
     "date": {
         "property": "DateCreated",
-        "language": false
+        "language": "en"
     },
     "dateb": {
         "property": "DateCreated",
-        "language": false
+        "language": "en"
     },
     "sort": {
         "property": "SortDate",
-        "language": false
+        "language": "en"
     },
     "descri": {
         "property": "Description",
-        "language": false
+        "language": "en"
     },
     "physic": {
         "property": "Extent",
-        "language": false
+        "language": "en"
     },
     "subjec": {
         "property": "Subject",
-        "language": false
+        "language": "en"
     },
     "subjea": {
         "property": "GeographicLocation",
-        "language": false
+        "language": "en"
     },
     "person": {
         "property": "Genre",
-        "language": false
+        "language": "en"
     },
     "genre": {
         "property": "Genre",
-        "language": false
+        "language": "en"
     },
     "type": {
         "property": "Type",
-        "language": false
+        "language": "en"
     },
     "format": {
         "property": "FileFormat",
-        "language": false
+        "language": "en"
     },
     "langua": {
         "property": "Language",
-        "language": false
+        "language": "en"
     },
     "contri": {
         "property": "Contributor",
-        "language": false
+        "language": "en"
     },
     "ubc": {
         "property": "Identifier",
-        "language": false
+        "language": "en"
     },
     "identi": {
         "property": "Identifier",
-        "language": false
+        "language": "en"
     },
     "digita": {
         "property": false,
-        "language": false
+        "language": "en"
     },
     "relati": {
         "property": "Series",
-        "language": false
+        "language": "en"
     },
     "source": {
         "property": "Source",
-        "language": false
+        "language": "en"
     },
     "datea": {
         "property": "DateAvailable",
-        "language": false
+        "language": "en"
     },
     "publia": {
         "property": "Publisher",
-        "language": false
+        "language": "en"
     },
     "rights": {
         "property": "Rights",
-        "language": false
+        "language": "en"
     },
     "licens": {
         "property": false,
-        "language": false
+        "language": "en"
     },
     "transc": {
         "property": "Annotation",
-        "language": false
+        "language": "en"
     },
     "catalo": {
         "property": "CatalogueRecord",
-        "language": false
+        "language": "en"
     },
     "projec": {
         "property": "Publisher",
-        "language": false
+        "language": "en"
     },
     "aip": {
         "property": "Identifier",
-        "language": false
+        "language": "en"
     },
     "file": {
         "property": "Identifier",
-        "language": false
+        "language": "en"
     },
     "fullrs": {
         "property": "Identifier",
-        "language": false
+        "language": "en"
     },
     "dmoclcno": {
         "property": false,
-        "language": false
+        "language": "en"
     },
     "dmcreated": {
         "property": false,
-        "language": false
+        "language": "en"
     },
     "dmmodified": {
         "property": false,
-        "language": false
+        "language": "en"
     },
     "dmrecord": {
         "property": false,
-        "language": false
+        "language": "en"
     },
     "find": {
         "property": false,
-        "language": false
+        "language": "en"
     }
 }
