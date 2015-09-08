@@ -28,7 +28,7 @@
         "language": "en"
     },
     "sort": {
-        "property": "SortDate",
+        "property": "Date",
         "language": "en"
     },
     "descri": {
@@ -80,7 +80,7 @@
         "language": "en"
     },
     "digita": {
-        "property": "Identifier",
+        "property": "DigitalIdentifier",
         "language": "en"
     },
     "relati": {
@@ -104,7 +104,7 @@
         "language": "en"
     },
     "licens": {
-        "property": "URI",
+        "property": "License",
         "language": "en"
     },
     "transc": {
