@@ -131,9 +131,24 @@
         "property": "Identifier",
         "language": "en"
     },
-    "dmoclcno": "",
-    "dmcreated": "",
-    "dmmodified": "",
-    "dmrecord": "",
-    "find": ""
+    "dmoclcno": {
+        "property": null,
+        "language": "en"
+    },
+    "dmcreated": {
+        "property": null,
+        "language": "en"
+    },
+    "dmmodified": {
+        "property": null,
+        "language": "en"
+    },
+    "dmrecord": {
+        "property": null,
+        "language": "en"
+    },
+    "find": {
+        "property": null,
+        "language": "en"
+    }
 }
