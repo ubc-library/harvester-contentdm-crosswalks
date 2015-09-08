@@ -1,116 +1,139 @@
 {
     "title": {
-        "property": "Title"
+        "property": "Title",
+        "language": "en"
     },
     "altern": {
-        "property": "AlternateTitle"
+        "property": "AlternateTitle",
+        "language": "en"
     },
     "creato": {
-        "property": "Creator"
+        "property": "Creator",
+        "language": "en"
     },
     "contra": {
-        "property": "Contributor"
+        "property": "Contributor",
+        "language": "en"
     },
     "publis": {
-        "property": "Publisher"
+        "property": "Publisher",
+        "language": "en"
     },
     "date": {
-        "property": "DateCreated"
+        "property": "DateCreated",
+        "language": "en"
     },
     "dateb": {
-        "property": "DateIssued"
+        "property": "DateIssued",
+        "language": "en"
     },
     "sort": {
-        "property": "Date"
+        "property": "Date",
+        "language": "en"
     },
     "descri": {
-        "property": "Description"
+        "property": "Description",
+        "language": "en"
     },
     "physic": {
-        "property": "Extent"
+        "property": "Extent",
+        "language": "en"
     },
     "subjec": {
-        "property": "Subject"
+        "property": "Subject",
+        "language": "en"
     },
     "subjea": {
-        "property": "GeographicLocation"
+        "property": "GeographicLocation",
+        "language": "en"
     },
     "person": {
-        "property": "Genre"
+        "property": "PersonOrCorporation",
+        "language": "en"
     },
     "genre": {
-        "property": "Genre"
+        "property": "Genre",
+        "language": "en"
     },
     "type": {
-        "property": "Type"
+        "property": "Type",
+        "language": "en"
     },
     "format": {
-        "property": "FileFormat"
+        "property": "FileFormat",
+        "language": "en"
     },
     "langua": {
-        "property": "Language"
+        "property": "Language",
+        "language": "en"
     },
     "contri": {
-        "property": "Annotation"
+        "property": "Annotation",
+        "language": "en"
     },
     "ubc": {
-        "property": "Identifier"
+        "property": "Identifier",
+        "language": "en"
     },
     "identi": {
-        "property": "Identifier"
+        "property": "Identifier",
+        "language": "en"
     },
     "digita": {
-        "property": false
+        "property": "Identifier",
+        "language": "en"
     },
     "relati": {
-        "property": "Series"
+        "property": "Series",
+        "language": "en"
     },
     "source": {
-        "property": "Source"
+        "property": "Source",
+        "language": "en"
     },
     "datea": {
-        "property": "DateAvailable"
+        "property": "DateAvailable",
+        "language": "en"
     },
     "publia": {
-        "property": "Publisher"
+        "property": "Publisher",
+        "language": "en"
     },
     "rights": {
-        "property": "Rights"
+        "property": "Rights",
+        "language": "en"
     },
     "licens": {
-        "property": "License"
+        "property": "License",
+        "language": "en"
     },
     "transc": {
-        "property": "Annotation"
+        "property": "Annotation",
+        "language": "en"
     },
     "catalo": {
-        "property": "CatalogueRecord"
+        "property": "CatalogueRecord",
+        "language": "en"
     },
     "projec": {
-        "property": "Publisher"
+        "property": "Publisher",
+        "language": "en"
     },
     "aip": {
-        "property": "Identifier"
+        "property": "Identifier",
+        "language": "en"
     },
     "file": {
-        "property": "Identifier"
+        "property": "Identifier",
+        "language": "en"
     },
     "fullrs": {
-        "property": "Identifier"
+        "property": "Identifier",
+        "language": "en"
     },
-    "dmoclcno": {
-        "property": false
-    },
-    "dmcreated": {
-        "property": false
-    },
-    "dmmodified": {
-        "property": false
-    },
-    "dmrecord": {
-        "property": false
-    },
-    "find": {
-        "property": false
-    }
+    "dmoclcno": "",
+    "dmcreated": "",
+    "dmmodified": "",
+    "dmrecord": "",
+    "find": ""
 }
