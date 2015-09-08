@@ -1,166 +1,166 @@
 {
     "title": {
         "property": "Title",
-        "language": "English"
+        "language": "en"
     },
     "altern": {
         "property": "AlternateTitle",
-        "language": "English"
+        "language": "en"
     },
     "creato": {
         "property": "Creator",
-        "language": "English"
+        "language": "en"
     },
     "contri": {
         "property": "Contributor",
-        "language": "English"
+        "language": "en"
     },
     "publis": {
         "property": "Publisher",
-        "language": "English"
+        "language": "en"
     },
     "date": {
         "property": "Date",
-        "language": "English"
+        "language": "en"
     },
     "datei": {
-        "property": false,
-        "language": "English"
+        "property": null,
+        "language": "en"
     },
     "sort": {
-        "property": false,
-        "language": "English"
+        "property": null,
+        "language": "en"
     },
     "descri": {
         "property": "Description",
-        "language": "English"
+        "language": "en"
     },
     "formata": {
-        "property": false,
-        "language": "English"
+        "property": null,
+        "language": "en"
     },
     "subjec": {
         "property": "Subject",
-        "language": "English"
+        "language": "en"
     },
     "subjea": {
-        "property": false,
-        "language": "English"
+        "property": null,
+        "language": "en"
     },
     "person": {
-        "property": false,
-        "language": "English"
+        "property": null,
+        "language": "en"
     },
     "genre": {
         "property": "Genre",
-        "language": "English"
+        "language": "en"
     },
     "type": {
         "property": "Type",
-        "language": "English"
+        "language": "en"
     },
     "format": {
         "property": "FileFormat",
-        "language": "English"
+        "language": "en"
     },
     "langua": {
-        "property": false,
-        "language": "English"
+        "property": null,
+        "language": "en"
     },
     "notes": {
-        "property": false,
-        "language": "English"
+        "property": null,
+        "language": "en"
     },
     "ubc": {
-        "property": false,
-        "language": "English"
+        "property": null,
+        "language": "en"
     },
     "identi": {
         "property": "Identifier",
-        "language": "English"
+        "language": "en"
     },
     "digita": {
-        "property": false,
-        "language": "English"
+        "property": null,
+        "language": "en"
     },
     "relati": {
-        "property": false,
-        "language": "English"
+        "property": null,
+        "language": "en"
     },
     "source": {
-        "property": false,
-        "language": "English"
+        "property": null,
+        "language": "en"
     },
     "datea": {
-        "property": false,
-        "language": "English"
+        "property": null,
+        "language": "en"
     },
     "publia": {
-        "property": false,
-        "language": "English"
+        "property": null,
+        "language": "en"
     },
     "rights": {
-        "property": false,
-        "language": "English"
+        "property": null,
+        "language": "en"
     },
     "licens": {
-        "property": false,
-        "language": "English"
+        "property": null,
+        "language": "en"
     },
     "transc": {
-        "property": false,
-        "language": "English"
+        "property": null,
+        "language": "en"
     },
     "catalo": {
-        "property": false,
-        "language": "English"
+        "property": null,
+        "language": "en"
     },
     "projec": {
-        "property": false,
-        "language": "English"
+        "property": null,
+        "language": "en"
     },
     "aip": {
-        "property": false,
-        "language": "English"
+        "property": null,
+        "language": "en"
     },
     "file": {
-        "property": false,
-        "language": "English"
+        "property": null,
+        "language": "en"
     },
     "latitu": {
-        "property": false,
-        "language": "English"
+        "property": null,
+        "language": "en"
     },
     "longit": {
-        "property": false,
-        "language": "English"
+        "property": null,
+        "language": "en"
     },
     "place": {
         "property": "GeographicLocation",
-        "language": "English"
+        "language": "en"
     },
     "fullrs": {
-        "property": false,
-        "language": "English"
+        "property": null,
+        "language": "en"
     },
     "dmoclcno": {
-        "property": false,
-        "language": "English"
+        "property": null,
+        "language": "en"
     },
     "dmcreated": {
-        "property": false,
-        "language": "English"
+        "property": null,
+        "language": "en"
     },
     "dmmodified": {
-        "property": false,
-        "language": "English"
+        "property": null,
+        "language": "en"
     },
     "dmrecord": {
-        "property": false,
-        "language": "English"
+        "property": null,
+        "language": "en"
     },
     "find": {
-        "property": false,
-        "language": "English"
+        "property": null,
+        "language": "en"
     }
 }
