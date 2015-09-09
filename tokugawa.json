@@ -64,9 +64,11 @@
         "language": "en"
     },
     "identi": {
+        "property": "Identifier",
         "language": "en"
     },
     "access": {
+        "property": "Identifier",
         "language": "en"
     },
     "forms": {
@@ -98,12 +100,12 @@
         "language": "en"
     },
     "fullrs": {
-        "property": "Annotation",
+        "property": "Identifier",
         "language": "en"
     },
     "dmoclcno": {
         "property": null,
-        "language": false
+        "language": "en"
     },
     "dmcreated": {
         "property": null,
