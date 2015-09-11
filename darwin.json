@@ -68,7 +68,7 @@
         "language": "en"
     },
     "notes": {
-        "property": "Annotation",
+        "property": "Notes",
         "language": "en"
     },
     "ubc": {
@@ -84,7 +84,7 @@
         "language": "en"
     },
     "relati": {
-        "property": "Series",
+        "property": "Collection",
         "language": "en"
     },
     "source": {
@@ -120,35 +120,35 @@
         "language": "en"
     },
     "aip": {
-        "property": "Identifier",
+        "property": "AIPUUID",
         "language": "en"
     },
     "file": {
-        "property": "Identifier",
+        "property": "FileUUID",
         "language": "en"
     },
     "fullrs": {
-        "property": false,
+        "property": "Identifier",
         "language": "en"
     },
     "dmoclcno": {
-        "property": false,
+        "property": null,
         "language": "en"
     },
     "dmcreated": {
-        "property": false,
+        "property": null,
         "language": "en"
     },
     "dmmodified": {
-        "property": false,
+        "property": null,
         "language": "en"
     },
     "dmrecord": {
-        "property": false,
+        "property": null,
         "language": "en"
     },
     "find": {
-        "property": false,
+        "property": null,
         "language": "en"
     }
 }
