@@ -72,7 +72,7 @@
         "language": "en"
     },
     "contri": {
-        "property": "Annotation",
+        "property": "Notes",
         "language": "en"
     },
     "ubc": {
@@ -88,7 +88,7 @@
         "language": "en"
     },
     "digita": {
-        "property": "DigitalIdentifier",
+        "property": "Identifier",
         "language": "en"
     },
     "relati": {
@@ -116,7 +116,7 @@
         "language": "en"
     },
     "transc": {
-        "property": "Annotation",
+        "property": "FullText",
         "language": "en"
     },
     "catalo": {
@@ -128,15 +128,15 @@
         "language": "en"
     },
     "aip": {
-        "property": "Identifier",
+        "property": "AIPUUID",
         "language": "en"
     },
     "file": {
-        "property": "Identifier",
+        "property": "FileUUID",
         "language": "en"
     },
     "fullrs": {
-        "property": "Identifier",
+        "property": null,
         "language": "en"
     },
     "dmoclcno": {
