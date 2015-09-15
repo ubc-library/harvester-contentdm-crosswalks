@@ -68,7 +68,7 @@
         "language": "en"
     },
     "contri": {
-        "property": "Annotation",
+        "property": "Notes",
         "language": "en"
     },
     "ubc": {
@@ -80,7 +80,7 @@
         "language": "en"
     },
     "digita": {
-        "property": "DigitalIdentifier",
+        "property": "Identifier",
         "language": "en"
     },
     "relati": {
@@ -108,7 +108,7 @@
         "language": "en"
     },
     "transc": {
-        "property": "Annotation",
+        "property": "FullText",
         "language": "en"
     },
     "catalo": {
@@ -128,7 +128,7 @@
         "language": "en"
     },
     "fullrs": {
-        "property": "Annotation",
+        "property": null,
         "language": "en"
     },
     "dmoclcno": {
