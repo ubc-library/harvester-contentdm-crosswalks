@@ -1,0 +1,178 @@
+{
+    "title": {
+        "property": "Title",
+        "language": "en"
+    },
+    "covera": {
+        "property": "Country",
+        "language": "en"
+    },
+    "provin": {
+        "property": "ProvinceOrState",
+        "language": "en"
+    },
+    "locali": {
+        "property": "Locality",
+        "language": "en"
+    },
+    "catalo": {
+        "property": "CatalogueNumber",
+        "language": "en"
+    },
+    "collec": {
+        "property": "CollectorNumber",
+        "language": "en"
+    },
+    "waters": {
+        "property": "Watershed",
+        "language": "en"
+    },
+    "latitu": {
+        "property": "Latitude",
+        "language": "en"
+    },
+    "longit": {
+        "property": "Longitude",
+        "language": "en"
+    },
+    "map": {
+        "property": "Map",
+        "language": "en"
+    },
+    "water": {
+        "property": "Water",
+        "language": "en"
+    },
+    "vegeta": {
+        "property": "Vegetation",
+        "language": "en"
+    },
+    "bottom": {
+        "property": "Bottom",
+        "language": "en"
+    },
+    "cover": {
+        "property": "Cover",
+        "language": "en"
+    },
+    "temper": {
+        "property": "Temperature",
+        "language": "en"
+    },
+    "shore": {
+        "property": "Shore",
+        "language": "en"
+    },
+    "curren": {
+        "property": "Current",
+        "language": "en"
+    },
+    "distan": {
+        "property": "DistanceOffshore",
+        "language": "en"
+    },
+    "stream": {
+        "property": "StreamWidth",
+        "language": "en"
+    },
+    "depth": {
+        "property": "DepthOfCapture",
+        "language": "en"
+    },
+    "deptha": {
+        "property": "DepthOfWater",
+        "language": "en"
+    },
+    "creato": {
+        "property": "CollectedBy",
+        "language": "en"
+    },
+    "tide": {
+        "property": "Tide",
+        "language": "en"
+    },
+    "date": {
+        "property": "Date",
+        "language": "en"
+    },
+    "method": {
+        "property": "MethodOfCapture",
+        "language": "en"
+    },
+    "origin": {
+        "property": "OriginalPreserved",
+        "language": "en"
+    },
+    "time": {
+        "property": "Time",
+        "language": "en"
+    },
+    "subjea": {
+        "property": "Subject",
+        "language": "en"
+    },
+    "descri": {
+        "property": "Description",
+        "language": "en"
+    },
+    "notes": {
+        "property": "Notes",
+        "language": "en"
+    },
+    "langua": {
+        "property": "Language",
+        "language": "en"
+    },
+    "type": {
+        "property": "Type",
+        "language": "en"
+    },
+    "relati": {
+        "property": "FileFormat",
+        "language": "en"
+    },
+    "source": {
+        "property": "Date",
+        "language": "en"
+    },
+    "audien": {
+        "property": "Collection",
+        "language": "en"
+    },
+    "rights": {
+        "property": "Rights",
+        "language": "en"
+    },
+    "aip": {
+        "property": "AIPUUID",
+        "language": "en"
+    },
+    "file": {
+        "property": "FileUUID",
+        "language": "en"
+    },
+    "fullrs": {
+        "property": null,
+        "language": "en"
+    },
+    "dmoclcno": {
+        "property": null,
+        "language": "en"
+    },
+    "dmcreated": {
+        "property": null,
+        "language": "en"
+    },
+    "dmmodified": {
+        "property": null,
+        "language": "en"
+    },
+    "dmrecord": {
+        "property": null,
+        "language": "en"
+    },
+    "find": {
+        "property": null,
+        "language": "en"
+    }
+}
