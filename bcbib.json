@@ -1,0 +1,126 @@
+{
+    "title": {
+        "property": "Title",
+        "language": "en"
+    },
+    "altern": {
+        "property": "AlternateTitle",
+        "language": "en"
+    },
+    "creato": {
+        "property": "Creator",
+        "language": "en"
+    },
+    "contri": {
+        "property": "Contributor",
+        "language": "en"
+    },
+    "langua": {
+        "property": "Language",
+        "language": "en"
+    },
+    "sort": {
+        "property": "Date",
+        "language": "en"
+    },
+    "public": {
+        "property": "DateIssued",
+        "language": "en"
+    },
+    "publis": {
+        "property": "Publisher",
+        "language": "en"
+    },
+    "place": {
+        "property": "Publisher",
+        "language": "en"
+    },
+    "covera": {
+        "property": "Edition",
+        "language": "en"
+    },
+    "physic": {
+        "property": "Extent",
+        "language": "en"
+    },
+    "subjec": {
+        "property": "Subject",
+        "language": "en"
+    },
+    "descri": {
+        "property": "Description",
+        "language": "en"
+    },
+    "type": {
+        "property": "Type",
+        "language": "en"
+    },
+    "ubc": {
+        "property": "Affiliation",
+        "language": "en"
+    },
+    "identi": {
+        "property": "CatalogueRecord",
+        "language": "en"
+    },
+    "source": {
+        "property": "Identifier",
+        "language": "en"
+    },
+    "digitb": {
+        "property": "Source",
+        "language": "en"
+    },
+    "digita": {
+        "property": "Type",
+        "language": "en"
+    },
+    "relati": {
+        "property": "ProjectWebsite",
+        "language": "en"
+    },
+    "rights": {
+        "property": "Rights",
+        "language": "en"
+    },
+    "audien": {
+        "property": "Identifier",
+        "language": "en"
+    },
+    "forms": {
+        "property": "Collection",
+        "language": "en"
+    },
+    "notes": {
+        "property": "Notes",
+        "language": "en"
+    },
+    "transc": {
+        "property": "FullText",
+        "language": "en"
+    },
+    "fullrs": {
+        "property": null,
+        "language": "en"
+    },
+    "dmoclcno": {
+        "property": null,
+        "language": "en"
+    },
+    "dmcreated": {
+        "property": null,
+        "language": "en"
+    },
+    "dmmodified": {
+        "property": null,
+        "language": "en"
+    },
+    "dmrecord": {
+        "property": null,
+        "language": "en"
+    },
+    "find": {
+        "property": null,
+        "language": "en"
+    }
+}
