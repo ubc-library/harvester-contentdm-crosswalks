@@ -96,35 +96,35 @@
         "language": "en"
     },
     "publis": {
-        "property": null,
+        "property": "Publisher",
         "language": "en"
     },
     "rights": {
-        "property": null,
+        "property": "Rights",
         "language": "en"
     },
     "licens": {
-        "property": null,
+        "property": "License",
         "language": "en"
     },
     "transc": {
-        "property": null,
+        "property": "FullText",
         "language": "en"
     },
     "catalo": {
-        "property": null,
+        "property": "CatalogueRecord",
         "language": "en"
     },
     "projec": {
-        "property": null,
+        "property": "ProjectWebsite",
         "language": "en"
     },
     "aip": {
-        "property": null,
+        "property": "AIPUUID",
         "language": "en"
     },
     "file": {
-        "property": null,
+        "property": "FileUUID",
         "language": "en"
     },
     "filed": {
@@ -132,19 +132,19 @@
         "language": "en"
     },
     "recora": {
-        "property": null,
+        "property": "Date",
         "language": "en"
     },
     "imaga": {
-        "property": null,
+        "property": "FileFormat",
         "language": "en"
     },
     "digita": {
-        "property": null,
+        "property": "FileFormat",
         "language": "en"
     },
     "imagf": {
-        "property": null,
+        "property": "FileFormat",
         "language": "en"
     },
     "fullrs": {
