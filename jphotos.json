@@ -1,0 +1,174 @@
+{
+    "title": {
+        "property": "Title",
+        "language": "en"
+    },
+    "altern": {
+        "property": "AlternateTitle",
+        "language": "en"
+    },
+    "photog": {
+        "property": "Creator",
+        "language": "en"
+    },
+    "contri": {
+        "property": "Contributor",
+        "language": "en"
+    },
+    "publia": {
+        "property": "Publisher",
+        "language": "en"
+    },
+    "date": {
+        "property": "DateCreated",
+        "language": "en"
+    },
+    "datea": {
+        "property": "DateIssued",
+        "language": "en"
+    },
+    "sort": {
+        "property": "SortDate",
+        "language": "en"
+    },
+    "descri": {
+        "property": "Description",
+        "language": "en"
+    },
+    "physic": {
+        "property": "Extent",
+        "language": "en"
+    },
+    "subjec": {
+        "property": "Subject",
+        "language": "en"
+    },
+    "subjea": {
+        "property": "GeographicLocation",
+        "language": "en"
+    },
+    "person": {
+        "property": "PersonOrCorporation",
+        "language": "en"
+    },
+    "genre": {
+        "property": "Genre",
+        "language": "en"
+    },
+    "type": {
+        "property": "Type",
+        "language": "en"
+    },
+    "imagb": {
+        "property": "FileFormat",
+        "language": "en"
+    },
+    "langua": {
+        "property": "Language",
+        "language": "en"
+    },
+    "notes": {
+        "property": "Notes",
+        "language": "en"
+    },
+    "ubc": {
+        "property": "Identifier",
+        "language": "en"
+    },
+    "image": {
+        "property": "Identifier",
+        "language": "en"
+    },
+    "digitb": {
+        "property": "Identifier",
+        "language": "en"
+    },
+    "forms": {
+        "property": "Collection",
+        "language": "en"
+    },
+    "reposi": {
+        "property": "Source",
+        "language": "en"
+    },
+    "scan": {
+        "property": "DateAvailable",
+        "language": "en"
+    },
+    "publis": {
+        "property": null,
+        "language": "en"
+    },
+    "rights": {
+        "property": null,
+        "language": "en"
+    },
+    "licens": {
+        "property": null,
+        "language": "en"
+    },
+    "transc": {
+        "property": null,
+        "language": "en"
+    },
+    "catalo": {
+        "property": null,
+        "language": "en"
+    },
+    "projec": {
+        "property": null,
+        "language": "en"
+    },
+    "aip": {
+        "property": null,
+        "language": "en"
+    },
+    "file": {
+        "property": null,
+        "language": "en"
+    },
+    "filed": {
+        "property": null,
+        "language": "en"
+    },
+    "recora": {
+        "property": null,
+        "language": "en"
+    },
+    "imaga": {
+        "property": null,
+        "language": "en"
+    },
+    "digita": {
+        "property": null,
+        "language": "en"
+    },
+    "imagf": {
+        "property": null,
+        "language": "en"
+    },
+    "fullrs": {
+        "property": null,
+        "language": "en"
+    },
+    "dmoclcno": {
+        "property": null,
+        "language": "en"
+    },
+    "dmcreated": {
+        "property": null,
+        "language": "en"
+    },
+    "dmmodified": {
+        "property": null,
+        "language": "en"
+    },
+    "dmrecord": {
+        "property": null,
+        "language": "en"
+    },
+    "find": {
+        "property": null,
+        "language": "en"
+    }
+}
