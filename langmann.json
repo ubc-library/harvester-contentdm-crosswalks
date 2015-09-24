@@ -28,7 +28,7 @@
         "language": "en"
     },
     "sort": {
-        "property": "Date",
+        "property": "SortDate",
         "language": "en"
     },
     "descri": {
@@ -68,7 +68,7 @@
         "language": "en"
     },
     "contri": {
-        "property": "Annotation",
+        "property": "Notes",
         "language": "en"
     },
     "ubc": {
@@ -84,7 +84,7 @@
         "language": "en"
     },
     "relati": {
-        "property": "Series",
+        "property": "Collection",
         "language": "en"
     },
     "source": {
@@ -96,7 +96,7 @@
         "language": "en"
     },
     "publia": {
-        "property": "Publisher",
+        "property": "Provider",
         "language": "en"
     },
     "rights": {
@@ -108,7 +108,7 @@
         "language": "en"
     },
     "transc": {
-        "property": "Annotation",
+        "property": "FullText",
         "language": "en"
     },
     "catalo": {
@@ -120,11 +120,11 @@
         "language": "en"
     },
     "aip": {
-        "property": "Identifier",
+        "property": "AIPUUID",
         "language": "en"
     },
     "file": {
-        "property": "Identifier",
+        "property": "FileUUID",
         "language": "en"
     },
     "fullrs": {
