@@ -1,0 +1,110 @@
+{
+    "title": {
+        "property": "Title",
+        "language": "en"
+    },
+    "photog": {
+        "property": "PersonOrCorporation",
+        "language": "en"
+    },
+    "date": {
+        "property": "DateIssued",
+        "language": "en"
+    },
+    "sort": {
+        "property": "SortDate",
+        "language": "en"
+    },
+    "physic": {
+        "property": "Extent",
+        "language": "en"
+    },
+    "subjec": {
+        "property": "Subject",
+        "language": "en"
+    },
+    "genre": {
+        "property": "Genre",
+        "language": "en"
+    },
+    "type": {
+        "property": "Type",
+        "language": "en"
+    },
+    "imagb": {
+        "property": "FileFormat",
+        "language": "en"
+    },
+    "notes": {
+        "property": "Notes",
+        "language": "en"
+    },
+    "image": {
+        "property": "Identifier",
+        "language": "en"
+    },
+    "filed": {
+        "property": "Identifier",
+        "language": "en"
+    },
+    "forms": {
+        "property": "Collection",
+        "language": "en"
+    },
+    "reposi": {
+        "property": "Source",
+        "language": "en"
+    },
+    "scan": {
+        "property": "DateAvailable",
+        "language": "en"
+    },
+    "publis": {
+        "property": "Publisher",
+        "language": "en"
+    },
+    "rights": {
+        "property": "Rights",
+        "language": "en"
+    },
+    "recora": {
+        "property": "DateIssued",
+        "language": "en"
+    },
+    "imaga": {
+        "property": "FileFormat",
+        "language": "en"
+    },
+    "digita": {
+        "property": "Notes",
+        "language": "en"
+    },
+    "imagf": {
+        "property": "Notes",
+        "language": "en"
+    },
+    "fullrs": {
+        "property": "Identifier",
+        "language": "en"
+    },
+    "dmoclcno": {
+        "property": null,
+        "language": "en"
+    },
+    "dmcreated": {
+        "property": null,
+        "language": "en"
+    },
+    "dmmodified": {
+        "property": null,
+        "language": "en"
+    },
+    "dmrecord": {
+        "property": null,
+        "language": "en"
+    },
+    "find": {
+        "property": null,
+        "language": "en"
+    }
+}
