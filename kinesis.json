@@ -1,0 +1,174 @@
+{
+    "title": {
+        "property": "Title",
+        "language": "en"
+    },
+    "altern": {
+        "property": "AlternateTitle",
+        "language": "en"
+    },
+    "creata": {
+        "property": null,
+        "language": "en"
+    },
+    "contra": {
+        "property": null,
+        "language": "en"
+    },
+    "publis": {
+        "property": null,
+        "language": "en"
+    },
+    "datea": {
+        "property": null,
+        "language": "en"
+    },
+    "date": {
+        "property": null,
+        "language": "en"
+    },
+    "sort": {
+        "property": null,
+        "language": "en"
+    },
+    "descri": {
+        "property": null,
+        "language": "en"
+    },
+    "extent": {
+        "property": null,
+        "language": "en"
+    },
+    "subjec": {
+        "property": null,
+        "language": "en"
+    },
+    "subjea": {
+        "property": null,
+        "language": "en"
+    },
+    "person": {
+        "property": null,
+        "language": "en"
+    },
+    "covera": {
+        "property": null,
+        "language": "en"
+    },
+    "type": {
+        "property": null,
+        "language": "en"
+    },
+    "format": {
+        "property": null,
+        "language": "en"
+    },
+    "langua": {
+        "property": null,
+        "language": "en"
+    },
+    "notes": {
+        "property": null,
+        "language": "en"
+    },
+    "ubc": {
+        "property": null,
+        "language": "en"
+    },
+    "identi": {
+        "property": null,
+        "language": "en"
+    },
+    "digita": {
+        "property": null,
+        "language": "en"
+    },
+    "relati": {
+        "property": null,
+        "language": "en"
+    },
+    "source": {
+        "property": null,
+        "language": "en"
+    },
+    "dateb": {
+        "property": null,
+        "language": "en"
+    },
+    "publia": {
+        "property": null,
+        "language": "en"
+    },
+    "rights": {
+        "property": null,
+        "language": "en"
+    },
+    "licens": {
+        "property": null,
+        "language": "en"
+    },
+    "full": {
+        "property": null,
+        "language": "en"
+    },
+    "catalo": {
+        "property": null,
+        "language": "en"
+    },
+    "audien": {
+        "property": null,
+        "language": "en"
+    },
+    "aip": {
+        "property": null,
+        "language": "en"
+    },
+    "file": {
+        "property": null,
+        "language": "en"
+    },
+    "volume": {
+        "property": null,
+        "language": "en"
+    },
+    "dates": {
+        "property": null,
+        "language": "en"
+    },
+    "freque": {
+        "property": null,
+        "language": "en"
+    },
+    "creato": {
+        "property": null,
+        "language": "en"
+    },
+    "contri": {
+        "property": null,
+        "language": "en"
+    },
+    "fullrs": {
+        "property": null,
+        "language": "en"
+    },
+    "dmoclcno": {
+        "property": null,
+        "language": "en"
+    },
+    "dmcreated": {
+        "property": null,
+        "language": "en"
+    },
+    "dmmodified": {
+        "property": null,
+        "language": "en"
+    },
+    "dmrecord": {
+        "property": null,
+        "language": "en"
+    },
+    "find": {
+        "property": null,
+        "language": "en"
+    }
+}
