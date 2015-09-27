@@ -132,11 +132,11 @@
         "language": "en"
     },
     "dates": {
-        "property": "Date",
+        "property": null,
         "language": "en"
     },
     "freque": {
-        "property": "Notes",
+        "property": null,
         "language": "en"
     },
     "creato": {
