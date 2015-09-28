@@ -128,23 +128,23 @@
         "language": "en"
     },
     "filed": {
-        "property": "Identifier",
+        "property": null,
         "language": "en"
     },
     "recora": {
-        "property": "Date",
+        "property": null,
         "language": "en"
     },
     "imaga": {
-        "property": "FileFormat",
+        "property": null,
         "language": "en"
     },
     "digita": {
-        "property": "FileFormat",
+        "property": null,
         "language": "en"
     },
     "imagf": {
-        "property": "FileFormat",
+        "property": null,
         "language": "en"
     },
     "fullrs": {
