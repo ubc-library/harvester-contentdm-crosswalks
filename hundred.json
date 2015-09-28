@@ -1,0 +1,186 @@
+{
+    "title": {
+        "property": "Title",
+        "language": "en"
+    },
+    "japane": {
+        "property": "Title",
+        "language": "ja"
+    },
+    "altern": {
+        "property": "AlternateTitle",
+        "language": "en"
+    },
+    "altera": {
+        "property": "AlternateTitle",
+        "language": "ja"
+    },
+    "creato": {
+        "property": "Creator",
+        "language": "en"
+    },
+    "japana": {
+        "property": "Creator",
+        "language": "ja"
+    },
+    "contri": {
+        "property": "Contributor",
+        "language": "en"
+    },
+    "other": {
+        "property": "Contributor",
+        "language": "ja"
+    },
+    "subjec": {
+        "property": "PersonOrCorporation",
+        "language": "en"
+    },
+    "japanb": {
+        "property": "PersonOrCorporation",
+        "language": "ja"
+    },
+    "publib": {
+        "property": "Publisher",
+        "language": "en"
+    },
+    "publia": {
+        "property": "Publisher",
+        "language": "ja"
+    },
+    "date": {
+        "property": "DateCreated",
+        "language": "en"
+    },
+    "dateja": {
+        "property": "DateCreated",
+        "language": "ja"
+    },
+    "datea": {
+        "property": "DateIssued",
+        "language": "en"
+    },
+    "japanc": {
+        "property": "DateIssued",
+        "language": "ja"
+    },
+    "sort": {
+        "property": "SortDate",
+        "language": "en"
+    },
+    "formaa": {
+        "property": "Extent",
+        "language": "en"
+    },
+    "subjea": {
+        "property": "Subject",
+        "language": "en"
+    },
+    "genre": {
+        "property": "Genre",
+        "language": "en"
+    },
+    "langua": {
+        "property": "Language",
+        "language": "en"
+    },
+    "notes": {
+        "property": "Notes",
+        "language": "en"
+    },
+    "access": {
+        "property": "Identifier",
+        "language": "en"
+    },
+    "descri": {
+        "property": "Description",
+        "language": "en"
+    },
+    "type": {
+        "property": "Type",
+        "language": "en"
+    },
+    "format": {
+        "property": "FileFormat",
+        "language": "en"
+    },
+    "identi": {
+        "property": "Identifier",
+        "language": "en"
+    },
+    "digita": {
+        "property": "Identifier",
+        "language": "en"
+    },
+    "forms": {
+        "property": "Collection",
+        "language": "en"
+    },
+    "japand": {
+        "property": "Collection",
+        "language": "ja"
+    },
+    "source": {
+        "property": "Source",
+        "language": "en"
+    },
+    "datedi": {
+        "property": "DateAvailable",
+        "language": "en"
+    },
+    "publis": {
+        "property": "Provider",
+        "language": "en"
+    },
+    "rights": {
+        "property": "Rights",
+        "language": "en"
+    },
+    "licens": {
+        "property": "License",
+        "language": "en"
+    },
+    "transc": {
+        "property": "FullText",
+        "language": "en"
+    },
+    "ubc": {
+        "property": "CatalogueRecord",
+        "language": "en"
+    },
+    "websit": {
+        "property": "ProjectWebsite",
+        "language": "en"
+    },
+    "aip": {
+        "property": "AIPUUID",
+        "language": "en"
+    },
+    "file": {
+        "property": "FileUUID",
+        "language": "en"
+    },
+    "fullrs": {
+        "property": null,
+        "language": "en"
+    },
+    "dmoclcno": {
+        "property": null,
+        "language": "en"
+    },
+    "dmcreated": {
+        "property": null,
+        "language": "en"
+    },
+    "dmmodified": {
+        "property": null,
+        "language": "en"
+    },
+    "dmrecord": {
+        "property": null,
+        "language": "en"
+    },
+    "find": {
+        "property": null,
+        "language": "en"
+    }
+}
