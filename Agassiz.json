@@ -20,15 +20,15 @@
         "language": "en"
     },
     "date": {
-        "property": "Date",
+        "property": "DateCreated",
         "language": "en"
     },
     "datei": {
-        "property": null,
+        "property": "DateIssued",
         "language": "en"
     },
     "sort": {
-        "property": null,
+        "property": "SortDate",
         "language": "en"
     },
     "descri": {
@@ -36,7 +36,7 @@
         "language": "en"
     },
     "formata": {
-        "property": null,
+        "property": "Extent",
         "language": "en"
     },
     "subjec": {
@@ -44,11 +44,11 @@
         "language": "en"
     },
     "subjea": {
-        "property": null,
+        "property": "GeographicLocation",
         "language": "en"
     },
     "person": {
-        "property": null,
+        "property": "PersonOrCorporation",
         "language": "en"
     },
     "genre": {
@@ -64,15 +64,15 @@
         "language": "en"
     },
     "langua": {
-        "property": null,
+        "property": "Language",
         "language": "en"
     },
     "notes": {
-        "property": null,
+        "property": "Notes",
         "language": "en"
     },
     "ubc": {
-        "property": null,
+        "property": "Identifier",
         "language": "en"
     },
     "identi": {
@@ -80,59 +80,59 @@
         "language": "en"
     },
     "digita": {
-        "property": null,
+        "property": "Identifier",
         "language": "en"
     },
     "relati": {
-        "property": null,
+        "property": "Collection",
         "language": "en"
     },
     "source": {
-        "property": null,
+        "property": "Source",
         "language": "en"
     },
     "datea": {
-        "property": null,
+        "property": "DateAvailable",
         "language": "en"
     },
     "publia": {
-        "property": null,
+        "property": "Provider",
         "language": "en"
     },
     "rights": {
-        "property": null,
+        "property": "Rights",
         "language": "en"
     },
     "licens": {
-        "property": null,
+        "property": "License",
         "language": "en"
     },
     "transc": {
-        "property": null,
+        "property": "FullText",
         "language": "en"
     },
     "catalo": {
-        "property": null,
+        "property": "CatalogueRecord",
         "language": "en"
     },
     "projec": {
-        "property": null,
+        "property": "ProjectWebsite",
         "language": "en"
     },
     "aip": {
-        "property": null,
+        "property": "AIPUUID",
         "language": "en"
     },
     "file": {
-        "property": null,
+        "property": "FileUUID",
         "language": "en"
     },
     "latitu": {
-        "property": null,
+        "property": "Latitude",
         "language": "en"
     },
     "longit": {
-        "property": null,
+        "property": "Longitude",
         "language": "en"
     },
     "place": {
