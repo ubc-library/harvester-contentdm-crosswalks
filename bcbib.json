@@ -20,7 +20,7 @@
         "language": "en"
     },
     "sort": {
-        "property": "Date",
+        "property": "SortDate",
         "language": "en"
     },
     "public": {
@@ -32,7 +32,7 @@
         "language": "en"
     },
     "place": {
-        "property": "Publisher",
+        "property": "GeographicLocation",
         "language": "en"
     },
     "covera": {
@@ -56,7 +56,7 @@
         "language": "en"
     },
     "ubc": {
-        "property": "Affiliation",
+        "property": "CatalogueRecord",
         "language": "en"
     },
     "identi": {
@@ -64,19 +64,15 @@
         "language": "en"
     },
     "source": {
-        "property": "Identifier",
-        "language": "en"
-    },
-    "digitb": {
         "property": "Source",
         "language": "en"
     },
-    "digita": {
+    "digitb": {
         "property": "Type",
         "language": "en"
     },
-    "relati": {
-        "property": "ProjectWebsite",
+    "digita": {
+        "property": "FileFormat",
         "language": "en"
     },
     "rights": {
@@ -98,6 +94,10 @@
     "transc": {
         "property": "FullText",
         "language": "en"
+    },
+    "projec": {
+        "property": "ProjectWebsite",
+        "language": false
     },
     "fullrs": {
         "property": null,
