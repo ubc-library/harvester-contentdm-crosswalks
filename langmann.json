@@ -116,7 +116,7 @@
         "language": "en"
     },
     "projec": {
-        "property": "Publisher",
+        "property": "ProjectWebsite",
         "language": "en"
     },
     "aip": {
@@ -128,7 +128,7 @@
         "language": "en"
     },
     "fullrs": {
-        "property": "Identifier",
+        "property": null,
         "language": "en"
     },
     "dmoclcno": {
