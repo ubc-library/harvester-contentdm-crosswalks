@@ -8,7 +8,7 @@
         "language": "en"
     },
     "date": {
-        "property": "DateIssued",
+        "property": "DateCreated",
         "language": "en"
     },
     "sort": {
@@ -44,7 +44,7 @@
         "language": "en"
     },
     "filed": {
-        "property": "Identifier",
+        "property": null,
         "language": "en"
     },
     "forms": {
@@ -84,7 +84,7 @@
         "language": "en"
     },
     "fullrs": {
-        "property": "Identifier",
+        "property": null,
         "language": "en"
     },
     "dmoclcno": {
