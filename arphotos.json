@@ -4,7 +4,7 @@
         "language": "en"
     },
     "photog": {
-        "property": "PersonOrCorporation",
+        "property": "Creator",
         "language": "en"
     },
     "date": {
@@ -60,7 +60,7 @@
         "language": "en"
     },
     "publis": {
-        "property": "Publisher",
+        "property": "Provider",
         "language": "en"
     },
     "rights": {
@@ -68,19 +68,19 @@
         "language": "en"
     },
     "recora": {
-        "property": "DateIssued",
+        "property": null,
         "language": "en"
     },
     "imaga": {
-        "property": "FileFormat",
+        "property": null,
         "language": "en"
     },
     "digita": {
-        "property": "Notes",
+        "property": null,
         "language": "en"
     },
     "imagf": {
-        "property": "Notes",
+        "property": null,
         "language": "en"
     },
     "fullrs": {
