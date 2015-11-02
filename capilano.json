@@ -96,7 +96,7 @@
         "language": "en"
     },
     "publis": {
-        "property": "Publisher",
+        "property": "Provider",
         "language": "en"
     },
     "rights": {
@@ -128,15 +128,15 @@
         "language": "en"
     },
     "digita": {
-        "property": "Identifier",
+        "property": null,
         "language": "en"
     },
     "dbcn": {
-        "property": "Identifier",
+        "property": null,
         "language": "en"
     },
     "fullrs": {
-        "property": "Identifier",
+        "property": null,
         "language": "en"
     },
     "dmoclcno": {
