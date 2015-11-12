@@ -96,7 +96,7 @@
         "language": "en"
     },
     "publia": {
-        "property": "Publisher",
+        "property": "Provider",
         "language": "en"
     },
     "rights": {
@@ -120,11 +120,11 @@
         "language": "en"
     },
     "aip": {
-        "property": "Identifier",
+        "property": "AIPUUID",
         "language": "en"
     },
     "file": {
-        "property": "Identifier",
+        "property": "FileUUID",
         "language": "en"
     },
     "fullrs": {
