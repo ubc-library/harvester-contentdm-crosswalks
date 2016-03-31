@@ -139,6 +139,10 @@
         "property": "GeographicLocation",
         "language": "en"
     },
+    "doi": {
+        "property": "IsShownAt",
+        "language": "en"
+    },
     "fullrs": {
         "property": null,
         "language": "en"
