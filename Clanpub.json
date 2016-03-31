@@ -3,27 +3,47 @@
         "property": "Title",
         "language": "en"
     },
-    "varian": {
-        "property": null,
+    "altern": {
+        "property": "AlternateTitle",
         "language": "en"
     },
     "creato": {
         "property": "Creator",
         "language": "en"
     },
-    "coverb": {
-        "property": null,
+    "contri": {
+        "property": "Contributor",
+        "language": "en"
+    },
+    "publis": {
+        "property": "Publisher",
         "language": "en"
     },
     "date": {
-        "property": "Date",
+        "property": "DateCreated",
+        "language": "en"
+    },
+    "datea": {
+        "property": "DateIssued",
+        "language": "en"
+    },
+    "sort": {
+        "property": "SortDate",
         "language": "en"
     },
     "descri": {
         "property": "Description",
         "language": "en"
     },
-    "variaa": {
+    "extent": {
+        "property": "Extent",
+        "language": "en"
+    },
+    "theme": {
+        "property": null,
+        "language": "en"
+    },
+    "coverb": {
         "property": null,
         "language": "en"
     },
@@ -31,36 +51,8 @@
         "property": "Subject",
         "language": "en"
     },
-    "variab": {
-        "property": null,
-        "language": "en"
-    },
-    "transc": {
-        "property": null,
-        "language": "en"
-    },
-    "theme": {
-        "property": null,
-        "language": "en"
-    },
-    "chung": {
-        "property": null,
-        "language": "en"
-    },
-    "call": {
-        "property": null,
-        "language": "en"
-    },
-    "langua": {
-        "property": "Language",
-        "language": "en"
-    },
-    "publis": {
-        "property": "Publisher",
-        "language": "en"
-    },
     "resour": {
-        "property": null,
+        "property": "Genre",
         "language": "en"
     },
     "permis": {
@@ -71,16 +63,80 @@
         "property": "FileFormat",
         "language": "en"
     },
+    "langua": {
+        "property": "Language",
+        "language": "en"
+    },
+    "notes": {
+        "property": "Notes",
+        "language": "en"
+    },
+    "call": {
+        "property": null,
+        "language": "en"
+    },
+    "access": {
+        "property": null,
+        "language": "en"
+    },
+    "digita": {
+        "property": "Identifier",
+        "language": "en"
+    },
+    "chung": {
+        "property": null,
+        "language": "en"
+    },
     "covera": {
         "property": null,
+        "language": "en"
+    },
+    "dateb": {
+        "property": "DateAvailable",
+        "language": "en"
+    },
+    "publia": {
+        "property": "Provider",
         "language": "en"
     },
     "rights": {
         "property": "Rights",
         "language": "en"
     },
+    "licens": {
+        "property": "License",
+        "language": "en"
+    },
+    "transc": {
+        "property": "FullText",
+        "language": "en"
+    },
+    "catalo": {
+        "property": "CatalogueRecord",
+        "language": "en"
+    },
     "projec": {
+        "property": "ProjectWebsite",
+        "language": "en"
+    },
+    "aip": {
+        "property": "AIPUUID",
+        "language": "en"
+    },
+    "varian": {
         "property": null,
+        "language": "en"
+    },
+    "variaa": {
+        "property": null,
+        "language": "en"
+    },
+    "variab": {
+        "property": null,
+        "language": "en"
+    },
+    "doi": {
+        "property": "IsShownAt",
         "language": "en"
     },
     "fullrs": {
@@ -92,7 +148,7 @@
         "language": "en"
     },
     "dmcreated": {
-        "property": "DateCreated",
+        "property": null,
         "language": "en"
     },
     "dmmodified": {
@@ -100,7 +156,7 @@
         "language": "en"
     },
     "dmrecord": {
-        "property": "CatalogueRecord",
+        "property": null,
         "language": "en"
     },
     "find": {
