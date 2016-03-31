@@ -135,6 +135,10 @@
         "property": null,
         "language": "en"
     },
+    "doi": {
+        "property": "IsShownAt",
+        "language": false
+    },
     "fullrs": {
         "property": null,
         "language": "en"
