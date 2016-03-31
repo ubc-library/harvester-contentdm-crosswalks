@@ -89,7 +89,7 @@
     },
     "licens": {
         "property": null,
-        "language": false
+        "language": "en"
     },
     "transc": {
         "property": "FullText",
@@ -105,7 +105,7 @@
     },
     "doi": {
         "property": "IsShownAt",
-        "language": false
+        "language": "en"
     },
     "fullrs": {
         "property": null,
