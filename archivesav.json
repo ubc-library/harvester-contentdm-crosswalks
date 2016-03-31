@@ -87,6 +87,10 @@
         "property": "Rights",
         "language": "en"
     },
+    "licens": {
+        "property": null,
+        "language": false
+    },
     "transc": {
         "property": "FullText",
         "language": "en"
@@ -98,6 +102,10 @@
     "projec": {
         "property": "ProjectWebsite",
         "language": "en"
+    },
+    "doi": {
+        "property": "IsShownAt",
+        "language": false
     },
     "fullrs": {
         "property": null,
