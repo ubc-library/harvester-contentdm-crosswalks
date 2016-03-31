@@ -3,16 +3,36 @@
         "property": "Title",
         "language": "en"
     },
+    "altern": {
+        "property": "AlternateTitle",
+        "language": "en"
+    },
     "photog": {
         "property": "Creator",
+        "language": "en"
+    },
+    "contri": {
+        "property": "Contributor",
+        "language": "en"
+    },
+    "publia": {
+        "property": "Publisher",
         "language": "en"
     },
     "date": {
         "property": "DateCreated",
         "language": "en"
     },
+    "datea": {
+        "property": "DateIssued",
+        "language": "en"
+    },
     "sort": {
         "property": "SortDate",
+        "language": "en"
+    },
+    "descri": {
+        "property": "Description",
         "language": "en"
     },
     "physic": {
@@ -22,6 +42,14 @@
     "subjec": {
         "property": "Subject",
         "language": "en"
+    },
+    "subjea": {
+        "property": "GeographicLocation",
+        "language": "en"
+    },
+    "person": {
+        "property": null,
+        "language": false
     },
     "genre": {
         "property": "Genre",
@@ -35,17 +63,25 @@
         "property": "FileFormat",
         "language": "en"
     },
+    "langua": {
+        "property": "Language",
+        "language": "en"
+    },
     "notes": {
         "property": "Notes",
         "language": "en"
+    },
+    "ubc": {
+        "property": null,
+        "language": false
     },
     "image": {
         "property": "Identifier",
         "language": "en"
     },
-    "filed": {
-        "property": "Notes",
-        "language": "en"
+    "digitb": {
+        "property": null,
+        "language": false
     },
     "forms": {
         "property": "Collection",
@@ -67,6 +103,34 @@
         "property": "Rights",
         "language": "en"
     },
+    "licens": {
+        "property": "License",
+        "language": "en"
+    },
+    "transc": {
+        "property": "FullText",
+        "language": "en"
+    },
+    "catalo": {
+        "property": null,
+        "language": false
+    },
+    "projec": {
+        "property": null,
+        "language": false
+    },
+    "aip": {
+        "property": "AIPUUID",
+        "language": "en"
+    },
+    "file": {
+        "property": "FileUUID",
+        "language": "en"
+    },
+    "filed": {
+        "property": "Notes",
+        "language": "en"
+    },
     "recora": {
         "property": null,
         "language": "en"
@@ -81,6 +145,10 @@
     },
     "imagf": {
         "property": null,
+        "language": "en"
+    },
+    "doi": {
+        "property": "IsShownAt",
         "language": "en"
     },
     "fullrs": {
