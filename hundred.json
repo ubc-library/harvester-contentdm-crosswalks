@@ -159,6 +159,10 @@
         "property": "FileUUID",
         "language": "en"
     },
+    "doi": {
+        "property": "IsShownAt",
+        "language": "en"
+    },
     "fullrs": {
         "property": null,
         "language": "en"
