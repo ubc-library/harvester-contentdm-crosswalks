@@ -99,6 +99,10 @@
         "property": "ProjectWebsite",
         "language": "en"
     },
+    "doi": {
+        "property": "IsShownAt",
+        "language": "en"
+    },
     "fullrs": {
         "property": "Identifier",
         "language": "en"
