@@ -127,12 +127,16 @@
         "property": "FileUUID",
         "language": "en"
     },
-    "latitu": {
-        "property": "Latitude",
+    "doi": {
+        "property": "IsShownAt",
         "language": "en"
     },
     "longit": {
         "property": "Longitude",
+        "language": "en"
+    },
+    "latitu": {
+        "property": "Latitude",
         "language": "en"
     },
     "place": {
