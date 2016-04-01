@@ -1,4 +1,8 @@
 {
+    "digita": {
+        "property": "Identifier",
+        "language": "en"
+    },
     "title": {
         "property": "Title",
         "language": "en"
@@ -79,10 +83,6 @@
         "property": "Identifier",
         "language": "en"
     },
-    "digita": {
-        "property": "Identifier",
-        "language": "en"
-    },
     "relati": {
         "property": "Collection",
         "language": "en"
@@ -137,6 +137,10 @@
     },
     "place": {
         "property": "GeographicLocation",
+        "language": "en"
+    },
+    "doi": {
+        "property": "IsShownAt",
         "language": "en"
     },
     "fullrs": {
