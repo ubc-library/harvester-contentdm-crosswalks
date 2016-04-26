@@ -1,0 +1,21 @@
+{
+    "name": "ubc-library/harvester-contentdm-crosswalks",
+    "description": "UBC Open Collections Project",
+    "homepage": "http://open.library.ubc.ca",
+    "authors": [
+        {
+            "name": "Stefan Khan-Kernahan",
+            "email": "stefan.khan-kernahan@ubc.ca",
+            "role": "Architect/Backend Developer"
+        },
+        {
+            "name": "Sean McNamara",
+            "email": "sean.mcnamara@ubc.ca",
+            "role": "Git Guru/Backend Developer"
+        }
+    ],
+    "support": {
+        "email": "stefan.khan-kernahan@ubc.ca",
+        "issues": "https://jira.library.ubc.ca:8443/browse/OCSUPP"
+    }
+}
