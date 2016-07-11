@@ -48,8 +48,8 @@
         "language": "en"
     },
     "person": {
-        "property": null,
-        "language": false
+        "property": "PersonOrCorporation",
+        "language": "en"
     },
     "genre": {
         "property": "Genre",
@@ -72,16 +72,16 @@
         "language": "en"
     },
     "ubc": {
-        "property": null,
-        "language": false
+        "property": "Identifier",
+        "language": "en"
     },
     "image": {
         "property": "Identifier",
         "language": "en"
     },
     "digitb": {
-        "property": null,
-        "language": false
+        "property": "Identifier",
+        "language": "en"
     },
     "forms": {
         "property": "Collection",
@@ -112,12 +112,12 @@
         "language": "en"
     },
     "catalo": {
-        "property": null,
-        "language": false
+        "property": "CatalogueRecord",
+        "language": "en"
     },
     "projec": {
-        "property": null,
-        "language": false
+        "property": "ProjectWebsite",
+        "language": "en"
     },
     "aip": {
         "property": "AIPUUID",
