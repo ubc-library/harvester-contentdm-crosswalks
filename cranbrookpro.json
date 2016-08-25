@@ -127,6 +127,10 @@
         "property": "FileUUID",
         "language": "en"
     },
+    "doi": {
+        "property": "IsShownAt",
+        "language": "en"
+    },
     "latitu": {
         "property": "Latitude",
         "language": "en"
@@ -136,11 +140,7 @@
         "language": "en"
     },
     "place": {
-        "property": "GeographicLocation",
-        "language": "en"
-    },
-    "doi": {
-        "property": "IsShownAt",
+        "property": null,
         "language": "en"
     },
     "fullrs": {
