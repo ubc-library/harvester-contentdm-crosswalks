@@ -84,7 +84,7 @@
         "language": "en"
     },
     "relati": {
-        "property": "IsShownAt",
+        "property": "Series",
         "language": "en"
     },
     "source": {
@@ -140,7 +140,7 @@
         "language": "en"
     },
     "place": {
-        "property": "GeographicLocation",
+        "property": null,
         "language": "en"
     },
     "fullrs": {
