@@ -92,7 +92,7 @@
         "language": "en"
     },
     "transc": {
-        "property": "FullText",
+        "property": "URI",
         "language": "en"
     },
     "link": {
