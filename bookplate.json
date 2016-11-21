@@ -55,11 +55,11 @@
         "property": "Genre",
         "language": "en"
     },
-    "type": {
+    "formaa": {
         "property": "Type",
         "language": "en"
     },
-    "formaa": {
+    "type": {
         "property": "FileFormat",
         "language": "en"
     },
