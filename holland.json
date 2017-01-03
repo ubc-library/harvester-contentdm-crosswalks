@@ -88,7 +88,7 @@
         "language": "en"
     },
     "series": {
-        "property": null,
+        "property": "Series",
         "language": "en"
     },
     "source": {
@@ -136,7 +136,7 @@
         "language": "en"
     },
     "fullrs": {
-        "property": "Identifier",
+        "property": null,
         "language": "en"
     },
     "dmoclcno": {
