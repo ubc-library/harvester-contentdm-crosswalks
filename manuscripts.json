@@ -111,6 +111,10 @@
         "property": "FullText",
         "language": "en"
     },
+    "transl": {
+        "property": "Translation",
+        "language": "es"
+    },
     "ubc": {
         "property": "CatalogueRecord",
         "language": "en"
