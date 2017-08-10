@@ -1,0 +1,170 @@
+{
+    "title": {
+        "property": "Title",
+        "language": "en"
+    },
+    "altern": {
+        "property": "AlternateTitle",
+        "language": "en"
+    },
+    "creato": {
+        "property": "Creator",
+        "language": "en"
+    },
+    "contri": {
+        "property": "Contributor",
+        "language": "en"
+    },
+    "publis": {
+        "property": "Publisher",
+        "language": "en"
+    },
+    "datea": {
+        "property": "DateCreated",
+        "language": "en"
+    },
+    "date": {
+        "property": "DateIssued",
+        "language": "en"
+    },
+    "sort": {
+        "property": "SortDate",
+        "language": "en"
+    },
+    "abstra": {
+        "property": "Description",
+        "language": "en"
+    },
+    "extent": {
+        "property": "Extent",
+        "language": "en"
+    },
+    "subjec": {
+        "property": "Subject",
+        "language": "en"
+    },
+    "subjea": {
+        "property": "GeographicLocation",
+        "language": "en"
+    },
+    "person": {
+        "property": "PersonOrCorporation",
+        "language": "en"
+    },
+    "genre": {
+        "property": "Genre",
+        "language": "en"
+    },
+    "type": {
+        "property": "Type",
+        "language": "en"
+    },
+    "format": {
+        "property": "FileFormat",
+        "language": "en"
+    },
+    "langua": {
+        "property": "Language",
+        "language": "en"
+    },
+    "dates": {
+        "property": "Notes",
+        "language": "en"
+    },
+    "ubc": {
+        "property": "Identifier",
+        "language": "en"
+    },
+    "access": {
+        "property": "Identifier",
+        "language": "en"
+    },
+    "identi": {
+        "property": "Identifier",
+        "language": "en"
+    },
+    "relati": {
+        "property": "Collection",
+        "language": "en"
+    },
+    "reposi": {
+        "property": "Source",
+        "language": "en"
+    },
+    "dateb": {
+        "property": "DateAvailable",
+        "language": "en"
+    },
+    "publia": {
+        "property": "Provider",
+        "language": "en"
+    },
+    "rights": {
+        "property": "Rights",
+        "language": "en"
+    },
+    "licenc": {
+        "property": "License",
+        "language": "en"
+    },
+    "full": {
+        "property": "FullText",
+        "language": "en"
+    },
+    "catalo": {
+        "property": "CatalogueRecord",
+        "language": "en"
+    },
+    "projec": {
+        "property": "ProjectWebsite",
+        "language": "en"
+    },
+    "aip": {
+        "property": "AIPUUID",
+        "language": "en"
+    },
+    "file": {
+        "property": "FileUUID",
+        "language": "en"
+    },
+    "doi": {
+        "property": "IsShownAt",
+        "language": "en"
+    },
+    "latitu": {
+        "property": "Latitude",
+        "language": "en"
+    },
+    "longit": {
+        "property": "Longitude",
+        "language": "en"
+    },
+    "place": {
+        "property": "GeographicLocation",
+        "language": "en"
+    },
+    "fullrs": {
+        "property": null,
+        "language": "en"
+    },
+    "dmoclcno": {
+        "property": null,
+        "language": "en"
+    },
+    "dmcreated": {
+        "property": null,
+        "language": "en"
+    },
+    "dmmodified": {
+        "property": null,
+        "language": "en"
+    },
+    "dmrecord": {
+        "property": null,
+        "language": "en"
+    },
+    "find": {
+        "property": null,
+        "language": "en"
+    }
+}
