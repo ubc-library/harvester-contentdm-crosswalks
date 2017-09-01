@@ -120,8 +120,8 @@
         "language": "en"
     },
     "transl": {
-        "property": "Translation",
-        "language": "en"
+        "property": null,
+        "language": false
     },
     "catalo": {
         "property": "CatalogueRecord",
