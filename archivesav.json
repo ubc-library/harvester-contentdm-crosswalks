@@ -79,6 +79,10 @@
         "property": "Source",
         "language": "en"
     },
+    "datea": {
+        "property": "DateAvailable",
+        "language": false
+    },
     "publis": {
         "property": "Provider",
         "language": "en"
