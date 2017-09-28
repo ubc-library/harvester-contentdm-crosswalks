@@ -1,30 +1,62 @@
 {
-    "identi": {
-        "property": "Identifier",
-        "language": "en"
-    },
     "title": {
         "property": "Title",
         "language": "en"
+    },
+    "altern": {
+        "property": "AlternateTitle",
+        "language": false
     },
     "creato": {
         "property": "Creator",
         "language": "en"
     },
+    "contri": {
+        "property": "Contributor",
+        "language": false
+    },
     "publis": {
         "property": "Publisher",
         "language": "en"
     },
-    "subjec": {
-        "property": "Subject",
-        "language": "en"
+    "dateb": {
+        "property": "DateCreated",
+        "language": false
     },
     "date": {
         "property": "DateIssued",
         "language": "en"
     },
-    "ubc": {
-        "property": "CatalogueRecord",
+    "sort": {
+        "property": "Date",
+        "language": false
+    },
+    "descri": {
+        "property": "Description",
+        "language": false
+    },
+    "extent": {
+        "property": "Extent",
+        "language": false
+    },
+    "subjec": {
+        "property": "Subject",
+        "language": "en"
+    },
+    "subjea": {
+        "property": null,
+        "language": false
+    },
+    "person": {
+        "property": null,
+        "language": false
+    },
+    "genre": {
+        "property": null,
+        "language": false
+    },
+    "type": {
+        "property": "Type",
         "language": "en"
     },
     "format": {
@@ -39,25 +71,61 @@
         "property": "Notes",
         "language": "en"
     },
-    "type": {
-        "property": "Type",
+    "ubca": {
+        "property": "Identifier",
+        "language": false
+    },
+    "access": {
+        "property": "Identifier",
+        "language": false
+    },
+    "identi": {
+        "property": "Identifier",
         "language": "en"
     },
     "relati": {
         "property": "Collection",
         "language": "en"
     },
+    "series": {
+        "property": "Series",
+        "language": false
+    },
     "source": {
         "property": "Source",
         "language": "en"
+    },
+    "datea": {
+        "property": "DateAvailable",
+        "language": false
+    },
+    "publia": {
+        "property": null,
+        "language": false
     },
     "rights": {
         "property": "Rights",
         "language": "en"
     },
+    "licens": {
+        "property": null,
+        "language": false
+    },
     "transc": {
         "property": "FullText",
         "language": "en"
+    },
+    "ubc": {
+        "property": "CatalogueRecord",
+        "language": "en"
+    },
+    "aip": {
+        "property": null,
+        "language": false
+    },
+    "file": {
+        "property": null,
+        "language": false
     },
     "doi": {
         "property": "IsShownAt",
