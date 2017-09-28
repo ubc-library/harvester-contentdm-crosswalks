@@ -5,7 +5,7 @@
     },
     "altern": {
         "property": "AlternateTitle",
-        "language": false
+        "language": "en"
     },
     "creato": {
         "property": "Creator",
@@ -13,7 +13,7 @@
     },
     "contri": {
         "property": "Contributor",
-        "language": false
+        "language": "en"
     },
     "publis": {
         "property": "Publisher",
@@ -21,7 +21,7 @@
     },
     "dateb": {
         "property": "DateCreated",
-        "language": false
+        "language": "en"
     },
     "date": {
         "property": "DateIssued",
@@ -29,31 +29,31 @@
     },
     "sort": {
         "property": "Date",
-        "language": false
+        "language": "en"
     },
     "descri": {
         "property": "Description",
-        "language": false
+        "language": "en"
     },
     "extent": {
         "property": "Extent",
-        "language": false
+        "language": "en"
     },
     "subjec": {
         "property": "Subject",
         "language": "en"
     },
     "subjea": {
-        "property": null,
-        "language": false
+        "property": "GeographicLocation",
+        "language": "en"
     },
     "person": {
-        "property": null,
-        "language": false
+        "property": "PersonOrCorporation",
+        "language": "en"
     },
     "genre": {
-        "property": null,
-        "language": false
+        "property": "Genre",
+        "language": "en"
     },
     "type": {
         "property": "Type",
@@ -73,11 +73,11 @@
     },
     "ubca": {
         "property": "Identifier",
-        "language": false
+        "language": "en"
     },
     "access": {
         "property": "Identifier",
-        "language": false
+        "language": "en"
     },
     "identi": {
         "property": "Identifier",
@@ -89,7 +89,7 @@
     },
     "series": {
         "property": "Series",
-        "language": false
+        "language": "en"
     },
     "source": {
         "property": "Source",
@@ -97,19 +97,19 @@
     },
     "datea": {
         "property": "DateAvailable",
-        "language": false
+        "language": "en"
     },
     "publia": {
-        "property": null,
-        "language": false
+        "property": "Provider",
+        "language": "en"
     },
     "rights": {
         "property": "Rights",
         "language": "en"
     },
     "licens": {
-        "property": null,
-        "language": false
+        "property": "License",
+        "language": "en"
     },
     "transc": {
         "property": "FullText",
@@ -121,11 +121,11 @@
     },
     "aip": {
         "property": null,
-        "language": false
+        "language": "en"
     },
     "file": {
         "property": null,
-        "language": false
+        "language": "en"
     },
     "doi": {
         "property": "IsShownAt",
