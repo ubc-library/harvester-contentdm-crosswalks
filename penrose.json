@@ -1,142 +1,142 @@
 {
     "title": {
-        "property": "Title",
+        "property": null,
         "language": "en"
     },
     "altern": {
-        "property": "AlternateTitle",
+        "property": null,
         "language": "en"
     },
     "creato": {
-        "property": "Creator",
+        "property": null,
         "language": "en"
     },
     "contra": {
-        "property": "Contributor",
+        "property": null,
         "language": "en"
     },
     "publis": {
-        "property": "Publisher",
+        "property": null,
         "language": "en"
     },
     "date": {
-        "property": "DateCreated",
+        "property": null,
         "language": "en"
     },
     "dateb": {
-        "property": "DateIssued",
+        "property": null,
         "language": "en"
     },
     "sort": {
-        "property": "SortDate",
+        "property": null,
         "language": "en"
     },
     "descri": {
-        "property": "Description",
+        "property": null,
         "language": "en"
     },
     "physic": {
-        "property": "Extent",
+        "property": null,
         "language": "en"
     },
     "subjec": {
-        "property": "Subject",
+        "property": null,
         "language": "en"
     },
     "subjea": {
-        "property": "GeographicLocation",
+        "property": null,
         "language": "en"
     },
     "person": {
-        "property": "PersonOrCorporation",
+        "property": null,
         "language": "en"
     },
     "genre": {
-        "property": "Genre",
+        "property": null,
         "language": "en"
     },
     "type": {
-        "property": "Type",
+        "property": null,
         "language": "en"
     },
     "format": {
-        "property": "FileFormat",
+        "property": null,
         "language": "en"
     },
     "langua": {
-        "property": "Language",
+        "property": null,
         "language": "en"
     },
     "contri": {
-        "property": "Notes",
+        "property": null,
         "language": "en"
     },
     "ubc": {
-        "property": "Identifier",
+        "property": null,
         "language": "en"
     },
     "identi": {
-        "property": "Identifier",
+        "property": null,
         "language": "en"
     },
     "digita": {
-        "property": "Identifier",
+        "property": null,
         "language": "en"
     },
     "relati": {
-        "property": "Collection",
+        "property": null,
         "language": "en"
     },
     "series": {
-        "property": "Series",
+        "property": null,
         "language": "en"
     },
     "source": {
-        "property": "Source",
+        "property": null,
         "language": "en"
     },
     "datea": {
-        "property": "DateAvailable",
+        "property": null,
         "language": "en"
     },
     "publia": {
-        "property": "Provider",
+        "property": null,
         "language": "en"
     },
     "rights": {
-        "property": "Rights",
+        "property": null,
         "language": "en"
     },
     "licens": {
-        "property": "License",
+        "property": null,
         "language": "en"
     },
     "transc": {
-        "property": "FullText",
+        "property": null,
         "language": "en"
     },
     "transl": {
-        "property": "Translation",
+        "property": null,
         "language": "en"
     },
     "catalo": {
-        "property": "CatalogueRecord",
+        "property": null,
         "language": "en"
     },
     "projec": {
-        "property": "ProjectWebsite",
+        "property": null,
         "language": "en"
     },
     "aip": {
-        "property": "AIPUUID",
+        "property": null,
         "language": "en"
     },
     "file": {
-        "property": "FileUUID",
+        "property": null,
         "language": "en"
     },
     "doi": {
-        "property": "IsShownAt",
+        "property": null,
         "language": "en"
     },
     "fullrs": {
