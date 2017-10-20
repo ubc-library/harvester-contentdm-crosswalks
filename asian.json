@@ -1,11 +1,19 @@
 {
+    "title": {
+        "property": "Title",
+        "language": "en"
+    },
     "titlea": {
         "property": "Title",
-        "language": "ja"
+        "language": "zh"
     },
-    "title": {
+    "altern": {
         "property": "AlternateTitle",
         "language": "en"
+    },
+    "chi": {
+        "property": "AlternateTitle",
+        "language": "zh"
     },
     "creato": {
         "property": "Creator",
@@ -13,7 +21,7 @@
     },
     "a": {
         "property": "Creator",
-        "language": "ja"
+        "language": "zh"
     },
     "contri": {
         "property": "Contributor",
@@ -21,11 +29,15 @@
     },
     "aa": {
         "property": "Contributor",
-        "language": "ja"
+        "language": "zh"
     },
     "publis": {
         "property": "Publisher",
         "language": "en"
+    },
+    "chia": {
+        "property": "Publisher",
+        "language": "zh"
     },
     "datea": {
         "property": "DateCreated",
@@ -35,6 +47,10 @@
         "property": "DateIssued",
         "language": "en"
     },
+    "chib": {
+        "property": "DateIssued",
+        "language": "zh"
+    },
     "sort": {
         "property": "Date",
         "language": "en"
@@ -43,21 +59,41 @@
         "property": "Description",
         "language": "en"
     },
+    "chic": {
+        "property": "Description",
+        "language": "zh"
+    },
     "physic": {
         "property": "Extent",
         "language": "en"
+    },
+    "chid": {
+        "property": "Extent",
+        "language": "zh"
     },
     "subjec": {
         "property": "Subject",
         "language": "en"
     },
+    "chie": {
+        "property": "Subject",
+        "language": "zh"
+    },
     "subjea": {
         "property": "GeographicLocation",
         "language": "en"
     },
+    "chif": {
+        "property": "GeographicLocation",
+        "language": "zh"
+    },
     "person": {
         "property": "PersonOrCorporation",
         "language": "en"
+    },
+    "chig": {
+        "property": "PersonOrCorporation",
+        "language": "zh"
     },
     "genre": {
         "property": "Genre",
@@ -79,6 +115,10 @@
         "property": "Notes",
         "language": "en"
     },
+    "chih": {
+        "property": "Notes",
+        "language": "zh"
+    },
     "ubc": {
         "property": "Identifier",
         "language": "en"
@@ -94,6 +134,30 @@
     "forms": {
         "property": "Collection",
         "language": "en"
+    },
+    "series": {
+        "property": "Series",
+        "language": "en"
+    },
+    "chii": {
+        "property": "Series",
+        "language": "zh"
+    },
+    "covera": {
+        "property": "Edition",
+        "language": "en"
+    },
+    "ac": {
+        "property": "Edition",
+        "language": "zh"
+    },
+    "proven": {
+        "property": null,
+        "language": false
+    },
+    "ch": {
+        "property": null,
+        "language": false
     },
     "reposi": {
         "property": "Source",
@@ -126,34 +190,6 @@
     "relati": {
         "property": "ProjectWebsite",
         "language": "en"
-    },
-    "digitb": {
-        "property": "Notes",
-        "language": "en"
-    },
-    "ae": {
-        "property": "Notes",
-        "language": "ja"
-    },
-    "covera": {
-        "property": "Edition",
-        "language": "en"
-    },
-    "ac": {
-        "property": "Edition",
-        "language": "ja"
-    },
-    "place": {
-        "property": null,
-        "language": false
-    },
-    "ad": {
-        "property": null,
-        "language": false
-    },
-    "ab": {
-        "property": "Notes",
-        "language": "ja"
     },
     "doi": {
         "property": "IsShownAt",
