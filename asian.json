@@ -52,7 +52,7 @@
         "language": "zh"
     },
     "sort": {
-        "property": "Date",
+        "property": "SortDate",
         "language": "en"
     },
     "descri": {
@@ -153,11 +153,11 @@
     },
     "proven": {
         "property": null,
-        "language": false
+        "language": "en"
     },
     "ch": {
         "property": null,
-        "language": false
+        "language": "en"
     },
     "reposi": {
         "property": "Source",
