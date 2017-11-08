@@ -75,6 +75,10 @@
         "property": "Subject",
         "language": "en"
     },
+    "japang": {
+        "property": "Subject",
+        "language": "ja"
+    },
     "genre": {
         "property": "Genre",
         "language": "en"
@@ -118,6 +122,14 @@
     "japand": {
         "property": "Collection",
         "language": "ja"
+    },
+    "series": {
+        "property": null,
+        "language": false
+    },
+    "japanf": {
+        "property": null,
+        "language": false
     },
     "source": {
         "property": "Source",
