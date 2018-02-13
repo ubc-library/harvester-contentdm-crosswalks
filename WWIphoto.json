@@ -96,7 +96,7 @@
         "language": "en"
     },
     "publis": {
-        "property": "Publisher",
+        "property": "Provider",
         "language": "en"
     },
     "rights": {
@@ -137,7 +137,7 @@
     },
     "doi": {
         "property": "IsShownAt",
-        "language": false
+        "language": "en"
     },
     "fullrs": {
         "property": null,
