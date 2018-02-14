@@ -4,19 +4,19 @@
         "language": "en"
     },
     "altern": {
+        "property": "Title",
+        "language": "ja"
+    },
+    "altera": {
         "property": "AlternateTitle",
         "language": "en"
     },
-    "altera": {
-        "property": null,
-        "language": "en"
-    },
     "creato": {
-        "property": null,
+        "property": "Creator",
         "language": "en"
     },
     "contri": {
-        "property": null,
+        "property": "Contributor",
         "language": "en"
     },
     "publis": {
@@ -24,11 +24,11 @@
         "language": "en"
     },
     "datea": {
-        "property": null,
+        "property": "DateCreated",
         "language": "en"
     },
     "date": {
-        "property": "Date",
+        "property": "DateIssued",
         "language": "en"
     },
     "sort": {
@@ -40,7 +40,7 @@
         "language": "en"
     },
     "extent": {
-        "property": null,
+        "property": "Extent",
         "language": "en"
     },
     "subjec": {
@@ -52,7 +52,7 @@
         "language": "en"
     },
     "person": {
-        "property": null,
+        "property": "PersonOrCorporation",
         "language": "en"
     },
     "genre": {
@@ -76,11 +76,11 @@
         "language": "en"
     },
     "ubc": {
-        "property": null,
+        "property": "Identifier",
         "language": "en"
     },
     "access": {
-        "property": null,
+        "property": "Identifier",
         "language": "en"
     },
     "identi": {
