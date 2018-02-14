@@ -13,7 +13,7 @@
     },
     "contri": {
         "property": "Contributor",
-        "language": false
+        "language": "en"
     },
     "publia": {
         "property": "Publisher",
@@ -25,11 +25,11 @@
     },
     "datea": {
         "property": "DateIssued",
-        "language": false
+        "language": "en"
     },
     "sort": {
         "property": "SortDate",
-        "language": false
+        "language": "en"
     },
     "descri": {
         "property": "Description",
@@ -44,12 +44,12 @@
         "language": "en"
     },
     "subjea": {
-        "property": null,
-        "language": false
+        "property": "GeographicLocation",
+        "language": "en"
     },
     "person": {
         "property": "PersonOrCorporation",
-        "language": false
+        "language": "en"
     },
     "genre": {
         "property": "Genre",
@@ -65,11 +65,11 @@
     },
     "langua": {
         "property": "Language",
-        "language": false
+        "language": "en"
     },
     "notes": {
         "property": "Notes",
-        "language": false
+        "language": "en"
     },
     "identi": {
         "property": "Identifier",
@@ -81,7 +81,7 @@
     },
     "digita": {
         "property": "Identifier",
-        "language": false
+        "language": "en"
     },
     "forms": {
         "property": "Collection",
@@ -89,7 +89,7 @@
     },
     "sourca": {
         "property": "Source",
-        "language": false
+        "language": "en"
     },
     "datedi": {
         "property": "DateAvailable",
@@ -105,11 +105,11 @@
     },
     "licens": {
         "property": "License",
-        "language": false
+        "language": "en"
     },
     "transc": {
         "property": "FullText",
-        "language": false
+        "language": "en"
     },
     "ubc": {
         "property": "CatalogueRecord",
@@ -125,11 +125,11 @@
     },
     "aip": {
         "property": null,
-        "language": false
+        "language": "en"
     },
     "file": {
         "property": null,
-        "language": false
+        "language": "en"
     },
     "doi": {
         "property": "IsShownAt",
