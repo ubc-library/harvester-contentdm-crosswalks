@@ -96,7 +96,7 @@
         "language": "en"
     },
     "publis": {
-        "property": "Publisher",
+        "property": "Provider",
         "language": "en"
     },
     "rights": {
@@ -125,42 +125,6 @@
     },
     "file": {
         "property": "FileUUID",
-        "language": "en"
-    },
-    "recora": {
-        "property": null,
-        "language": "en"
-    },
-    "filed": {
-        "property": null,
-        "language": "en"
-    },
-    "imaga": {
-        "property": null,
-        "language": "en"
-    },
-    "digita": {
-        "property": null,
-        "language": "en"
-    },
-    "imagb": {
-        "property": null,
-        "language": "en"
-    },
-    "imagc": {
-        "property": null,
-        "language": "en"
-    },
-    "dbcn": {
-        "property": null,
-        "language": "en"
-    },
-    "record": {
-        "property": null,
-        "language": "en"
-    },
-    "primot": {
-        "property": null,
         "language": "en"
     },
     "doi": {
