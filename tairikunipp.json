@@ -9,15 +9,15 @@
     },
     "altera": {
         "property": null,
-        "language": false
+        "language": "en"
     },
     "creato": {
         "property": null,
-        "language": false
+        "language": "en"
     },
     "contri": {
         "property": null,
-        "language": false
+        "language": "en"
     },
     "publis": {
         "property": "Publisher",
@@ -25,7 +25,7 @@
     },
     "datea": {
         "property": null,
-        "language": false
+        "language": "en"
     },
     "date": {
         "property": "Date",
@@ -41,7 +41,7 @@
     },
     "extent": {
         "property": null,
-        "language": false
+        "language": "en"
     },
     "subjec": {
         "property": "Subject",
@@ -49,11 +49,11 @@
     },
     "subjea": {
         "property": null,
-        "language": false
+        "language": "en"
     },
     "person": {
         "property": null,
-        "language": false
+        "language": "en"
     },
     "genre": {
         "property": "Genre",
@@ -61,7 +61,7 @@
     },
     "typea": {
         "property": "Type",
-        "language": false
+        "language": "en"
     },
     "format": {
         "property": "FileFormat",
@@ -77,11 +77,11 @@
     },
     "ubc": {
         "property": null,
-        "language": false
+        "language": "en"
     },
     "access": {
         "property": null,
-        "language": false
+        "language": "en"
     },
     "identi": {
         "property": "Identifier",
@@ -97,11 +97,11 @@
     },
     "dateb": {
         "property": "DateAvailable",
-        "language": false
+        "language": "en"
     },
     "publia": {
-        "property": null,
-        "language": false
+        "property": "Provider",
+        "language": "en"
     },
     "rights": {
         "property": "Rights",
@@ -109,15 +109,15 @@
     },
     "licens": {
         "property": null,
-        "language": false
+        "language": "en"
     },
     "transc": {
         "property": null,
-        "language": false
+        "language": "en"
     },
     "catalo": {
         "property": null,
-        "language": false
+        "language": "en"
     },
     "projec": {
         "property": "ProjectWebsite",
@@ -125,11 +125,11 @@
     },
     "aip": {
         "property": null,
-        "language": false
+        "language": "en"
     },
     "file": {
         "property": null,
-        "language": false
+        "language": "en"
     },
     "doi": {
         "property": "IsShownAt",
