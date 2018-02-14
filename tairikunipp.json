@@ -116,7 +116,7 @@
         "language": "en"
     },
     "catalo": {
-        "property": "AIPUUID",
+        "property": "CatalogueRecord",
         "language": "en"
     },
     "projec": {
