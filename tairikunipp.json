@@ -48,7 +48,7 @@
         "language": "en"
     },
     "subjea": {
-        "property": null,
+        "property": "GeographicLocation",
         "language": "en"
     },
     "person": {
@@ -112,11 +112,11 @@
         "language": "en"
     },
     "transc": {
-        "property": null,
+        "property": "FullText",
         "language": "en"
     },
     "catalo": {
-        "property": null,
+        "property": "AIPUUID",
         "language": "en"
     },
     "projec": {
