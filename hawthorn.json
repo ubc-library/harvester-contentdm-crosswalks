@@ -87,6 +87,10 @@
         "property": "Collection",
         "language": "en"
     },
+    "series": {
+        "property": "Series",
+        "language": "en"
+    },
     "source": {
         "property": "Source",
         "language": "en"
