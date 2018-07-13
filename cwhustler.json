@@ -136,15 +136,15 @@
         "language": "en"
     },
     "doi": {
-        "property": null,
+        "property": "IsShownAt",
         "language": "en"
     },
     "latitu": {
-        "property": null,
+        "property": "Latitude",
         "language": "en"
     },
     "longit": {
-        "property": null,
+        "property": "Longitude",
         "language": "en"
     },
     "place": {
