@@ -100,7 +100,7 @@
         "language": "en"
     },
     "publia": {
-        "property": "Provider",
+        "property": "Source",
         "language": "en"
     },
     "rights": {
@@ -120,35 +120,35 @@
         "language": "en"
     },
     "catalo": {
-        "property": "CatalogueRecord",
+        "property": "CatalogueNumber",
         "language": "en"
     },
     "projec": {
-        "property": "ProjectWebsite",
+        "property": null,
         "language": "en"
     },
     "aip": {
-        "property": "AIPUUID",
+        "property": null,
         "language": "en"
     },
     "file": {
-        "property": "FileUUID",
+        "property": null,
         "language": "en"
     },
     "doi": {
-        "property": "IsShownAt",
+        "property": null,
         "language": "en"
     },
     "latitu": {
-        "property": "Latitude",
+        "property": null,
         "language": "en"
     },
     "longit": {
-        "property": "Longitude",
+        "property": null,
         "language": "en"
     },
     "place": {
-        "property": "GeographicLocation",
+        "property": null,
         "language": "en"
     },
     "fullrs": {
