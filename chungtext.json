@@ -76,11 +76,11 @@
         "language": "en"
     },
     "ubc": {
-        "property": "Identifier",
+        "property": null,
         "language": "en"
     },
     "identi": {
-        "property": "Identifier",
+        "property": null,
         "language": "en"
     },
     "locati": {
