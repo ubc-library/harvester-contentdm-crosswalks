@@ -60,7 +60,7 @@
         "language": "en"
     },
     "format": {
-        "property": null,
+        "property": "FileFormat",
         "language": "en"
     },
     "langua": {
@@ -132,7 +132,7 @@
         "language": "en"
     },
     "doi": {
-        "property": null,
+        "property": "IsShownAt",
         "language": "en"
     },
     "fullrs": {
