@@ -3,9 +3,17 @@
         "property": "Title",
         "language": "en"
     },
+    "japane": {
+        "property": "Title",
+        "language": "ja"
+    },
     "altern": {
         "property": "AlternateTitle",
         "language": "en"
+    },
+    "altera": {
+        "property": "AlternateTitle",
+        "language": "ja"
     },
     "creato": {
         "property": "Creator",
@@ -22,6 +30,10 @@
     "date": {
         "property": "DateCreated",
         "language": "en"
+    },
+    "dateja": {
+        "property": "Date",
+        "language": "ja"
     },
     "datea": {
         "property": "DateIssued",
@@ -87,6 +99,10 @@
         "property": "Collection",
         "language": "en"
     },
+    "series": {
+        "property": "Series",
+        "language": false
+    },
     "sourca": {
         "property": "Source",
         "language": "en"
@@ -119,10 +135,6 @@
         "property": "ProjectWebsite",
         "language": "en"
     },
-    "source": {
-        "property": "Source",
-        "language": "en"
-    },
     "aip": {
         "property": null,
         "language": "en"
@@ -134,26 +146,6 @@
     "doi": {
         "property": "IsShownAt",
         "language": "en"
-    },
-    "japane": {
-        "property": "Title",
-        "language": "ja"
-    },
-    "altera": {
-        "property": "AlternateTitle",
-        "language": "ja"
-    },
-    "other": {
-        "property": "Contributor",
-        "language": "ja"
-    },
-    "dateja": {
-        "property": "Date",
-        "language": "ja"
-    },
-    "zoom": {
-        "property": null,
-        "language": "ja"
     },
     "fullrs": {
         "property": null,
