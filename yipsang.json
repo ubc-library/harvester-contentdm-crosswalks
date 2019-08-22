@@ -1,5 +1,5 @@
 {
-    "link": {
+    "title": {
         "property": "Title",
         "language": "en"
     },
@@ -79,9 +79,9 @@
         "property": "Identifier",
         "language": "en"
     },
-    "title": {
+    "access": {
         "property": "Identifier",
-        "language": "en"
+        "language": false
     },
     "digita": {
         "property": "Identifier",
