@@ -124,19 +124,19 @@
         "language": "en"
     },
     "projec": {
-        "property": null,
+        "property": "ProjectWebsite",
         "language": "en"
     },
     "aip": {
-        "property": null,
+        "property": "AIPUUID",
         "language": "en"
     },
     "file": {
-        "property": null,
+        "property": "FileUUID",
         "language": "en"
     },
     "doi": {
-        "property": null,
+        "property": "IsShownAt",
         "language": "en"
     },
     "latitu": {
