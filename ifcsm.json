@@ -128,7 +128,7 @@
         "language": "en"
     },
     "doi": {
-        "property": null,
+        "property": "IsShownAt",
         "language": "en"
     },
     "series": {
