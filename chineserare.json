@@ -152,7 +152,7 @@
         "language": "zh"
     },
     "proven": {
-        "property": null,
+        "property": "ProvinceOrState",
         "language": "en"
     },
     "ch": {
