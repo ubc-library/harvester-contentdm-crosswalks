@@ -32,7 +32,7 @@
         "language": "en"
     },
     "dateja": {
-        "property": "Date",
+        "property": "DateCreated",
         "language": "ja"
     },
     "datea": {
@@ -101,7 +101,7 @@
     },
     "series": {
         "property": "Series",
-        "language": false
+        "language": "en"
     },
     "sourca": {
         "property": "Source",
