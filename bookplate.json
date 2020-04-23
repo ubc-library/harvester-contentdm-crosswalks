@@ -111,6 +111,10 @@
         "property": "FullText",
         "language": "en"
     },
+    "transl": {
+        "property": "Translation",
+        "language": false
+    },
     "catalo": {
         "property": "CatalogueRecord",
         "language": "en"
