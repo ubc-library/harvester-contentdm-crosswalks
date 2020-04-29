@@ -3,33 +3,29 @@
         "property": "Title",
         "language": "en"
     },
-    "creato": {
-        "property": "Creator",
-        "language": "en"
+    "altern": {
+        "property": "AlternateTitle",
+        "language": false
     },
     "creata": {
-        "property": "Creator",
-        "language": "en"
-    },
-    "interv": {
-        "property": "Contributor",
-        "language": "en"
-    },
-    "speake": {
-        "property": "Creator",
-        "language": "en"
-    },
-    "narrat": {
-        "property": "Contributor",
-        "language": "en"
-    },
-    "compos": {
         "property": "Creator",
         "language": "en"
     },
     "other": {
         "property": "Contributor",
         "language": "en"
+    },
+    "publia": {
+        "property": "Publisher",
+        "language": false
+    },
+    "dateb": {
+        "property": "DateCreated",
+        "language": false
+    },
+    "datec": {
+        "property": "DateIssued",
+        "language": false
     },
     "date": {
         "property": "Date",
@@ -46,6 +42,14 @@
     "subjec": {
         "property": "Subject",
         "language": "en"
+    },
+    "subjea": {
+        "property": "GeographicLocation",
+        "language": false
+    },
+    "person": {
+        "property": "PersonOrCorporation",
+        "language": false
     },
     "genre": {
         "property": "Genre",
@@ -67,13 +71,25 @@
         "property": "Notes",
         "language": "en"
     },
+    "ubc": {
+        "property": "Identifier",
+        "language": false
+    },
     "identi": {
         "property": "Identifier",
         "language": "en"
     },
+    "digita": {
+        "property": "Identifier",
+        "language": false
+    },
     "relati": {
         "property": "Collection",
         "language": "en"
+    },
+    "series": {
+        "property": "Series",
+        "language": false
     },
     "source": {
         "property": "Source",
@@ -81,7 +97,7 @@
     },
     "datea": {
         "property": "DateAvailable",
-        "language": false
+        "language": "en"
     },
     "publis": {
         "property": "Provider",
@@ -92,7 +108,7 @@
         "language": "en"
     },
     "licens": {
-        "property": null,
+        "property": "License",
         "language": "en"
     },
     "transc": {
@@ -100,7 +116,7 @@
         "language": "en"
     },
     "link": {
-        "property": "URI",
+        "property": "CatalogueRecord",
         "language": "en"
     },
     "projec": {
