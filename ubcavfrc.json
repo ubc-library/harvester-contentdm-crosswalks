@@ -48,7 +48,7 @@
         "language": "en"
     },
     "creato": {
-        "property": "Creator",
+        "property": "PersonOrCorporation",
         "language": "en"
     },
     "genre": {
