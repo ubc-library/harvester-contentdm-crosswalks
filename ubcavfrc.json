@@ -28,7 +28,7 @@
         "language": "en"
     },
     "sort": {
-        "property": "Date",
+        "property": "SortDate",
         "language": "en"
     },
     "descra": {
@@ -125,10 +125,6 @@
     },
     "file": {
         "property": "FileUUID",
-        "language": "en"
-    },
-    "format": {
-        "property": "Extent",
         "language": "en"
     },
     "doi": {
