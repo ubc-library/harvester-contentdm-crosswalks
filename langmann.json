@@ -131,6 +131,14 @@
         "property": "IsShownAt",
         "language": "en"
     },
+    "latitu": {
+        "property": "Latitude",
+        "language": "en"
+    },
+    "longit": {
+        "property": "Longitude",
+        "language": "en"
+    },
     "fullrs": {
         "property": null,
         "language": "en"
