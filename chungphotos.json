@@ -80,7 +80,7 @@
         "language": "en"
     },
     "identi": {
-        "property": null,
+        "property": "Identifier",
         "language": "en"
     },
     "locati": {
