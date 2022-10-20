@@ -100,7 +100,7 @@
         "language": "en"
     },
     "publia": {
-        "property": null,
+        "property": "Provider",
         "language": "en"
     },
     "rights": {
@@ -124,7 +124,7 @@
         "language": "en"
     },
     "projec": {
-        "property": null,
+        "property": "ProjectWebsite",
         "language": "en"
     },
     "aip": {
@@ -136,7 +136,7 @@
         "language": "en"
     },
     "doi": {
-        "property": null,
+        "property": "IsShownAt",
         "language": "en"
     },
     "fullrs": {
