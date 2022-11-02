@@ -3,125 +3,57 @@
         "property": "Title",
         "language": "en"
     },
-    "covera": {
-        "property": "Country",
-        "language": "en"
+    "altern": {
+        "property": "AlternateTitle",
+        "language": false
     },
-    "provin": {
-        "property": "ProvinceOrState",
-        "language": "en"
+    "creata": {
+        "property": "Creator",
+        "language": false
     },
-    "locali": {
-        "property": "Locality",
-        "language": "en"
+    "contri": {
+        "property": "Contributor",
+        "language": false
     },
-    "catalo": {
-        "property": "CatalogueNumber",
-        "language": "en"
+    "publis": {
+        "property": "Publisher",
+        "language": false
     },
-    "collec": {
-        "property": "CollectorNumber",
-        "language": "en"
+    "datea": {
+        "property": "DateCreated",
+        "language": false
     },
-    "waters": {
-        "property": "Watershed",
-        "language": "en"
+    "dateb": {
+        "property": "DateIssued",
+        "language": false
     },
-    "latitu": {
-        "property": "Latitude",
-        "language": "en"
-    },
-    "longit": {
-        "property": "Longitude",
-        "language": "en"
-    },
-    "map": {
-        "property": "Map",
-        "language": "en"
-    },
-    "water": {
-        "property": "Water",
-        "language": "en"
-    },
-    "vegeta": {
-        "property": "Vegetation",
-        "language": "en"
-    },
-    "bottom": {
-        "property": "Bottom",
-        "language": "en"
-    },
-    "cover": {
-        "property": "Cover",
-        "language": "en"
-    },
-    "temper": {
-        "property": "Temperature",
-        "language": "en"
-    },
-    "shore": {
-        "property": "Shore",
-        "language": "en"
-    },
-    "curren": {
-        "property": "Current",
-        "language": "en"
-    },
-    "distan": {
-        "property": "DistanceOffshore",
-        "language": "en"
-    },
-    "stream": {
-        "property": "StreamWidth",
-        "language": "en"
-    },
-    "depth": {
-        "property": "DepthOfCapture",
-        "language": "en"
-    },
-    "deptha": {
-        "property": "DepthOfWater",
-        "language": "en"
-    },
-    "creato": {
-        "property": "CollectedBy",
-        "language": "en"
-    },
-    "tide": {
-        "property": "Tide",
-        "language": "en"
-    },
-    "date": {
-        "property": "Date",
-        "language": "en"
-    },
-    "method": {
-        "property": "MethodOfCapture",
-        "language": "en"
-    },
-    "origin": {
-        "property": "OriginalPreserved",
-        "language": "en"
-    },
-    "time": {
-        "property": "Time",
-        "language": "en"
-    },
-    "subjea": {
-        "property": "Subject",
-        "language": "en"
+    "sort": {
+        "property": "SortDate",
+        "language": false
     },
     "descri": {
         "property": "Description",
         "language": "en"
     },
-    "notes": {
-        "property": "Notes",
+    "extent": {
+        "property": "Extent",
+        "language": false
+    },
+    "subjea": {
+        "property": "Subject",
         "language": "en"
     },
-    "langua": {
-        "property": "Language",
-        "language": "en"
+    "subjec": {
+        "property": "GeographicLocation",
+        "language": false
+    },
+    "person": {
+        "property": "PersonOrCorporation",
+        "language": false
+    },
+    "genre": {
+        "property": "Genre",
+        "language": false
     },
     "type": {
         "property": "Type",
@@ -131,28 +63,84 @@
         "property": "FileFormat",
         "language": "en"
     },
+    "langua": {
+        "property": "Language",
+        "language": "en"
+    },
+    "notes": {
+        "property": "Notes",
+        "language": "en"
+    },
+    "ubc": {
+        "property": "Identifier",
+        "language": false
+    },
+    "access": {
+        "property": "Identifier",
+        "language": false
+    },
+    "digita": {
+        "property": "Identifier",
+        "language": false
+    },
+    "is": {
+        "property": "Collection",
+        "language": false
+    },
+    "series": {
+        "property": "Series",
+        "language": false
+    },
+    "sourca": {
+        "property": "Source",
+        "language": false
+    },
     "source": {
         "property": "DateAvailable",
         "language": "en"
     },
-    "audien": {
-        "property": "Collection",
-        "language": "en"
+    "publia": {
+        "property": "Provider",
+        "language": false
     },
     "rights": {
         "property": "Rights",
         "language": "en"
     },
+    "licens": {
+        "property": "License",
+        "language": false
+    },
+    "transc": {
+        "property": "FullText",
+        "language": false
+    },
+    "transl": {
+        "property": "Translation",
+        "language": false
+    },
+    "catala": {
+        "property": "CatalogueRecord",
+        "language": false
+    },
+    "projec": {
+        "property": "ProjectWebsite",
+        "language": false
+    },
     "aip": {
         "property": "AIPUUID",
         "language": "en"
     },
-    "file": {
-        "property": "FileUUID",
-        "language": "en"
-    },
     "doi": {
         "property": "IsShownAt",
+        "language": "en"
+    },
+    "latitu": {
+        "property": "Latitude",
+        "language": "en"
+    },
+    "longit": {
+        "property": "Longitude",
         "language": "en"
     },
     "fullrs": {
