@@ -1,6 +1,6 @@
 {
     "title": {
-        "property": "Title",
+        "property": "Time",
         "language": "en"
     },
     "altern": {
@@ -127,6 +127,10 @@
         "property": "FileUUID",
         "language": "en"
     },
+    "doi": {
+        "property": "IsShownAt",
+        "language": "en"
+    },
     "latitu": {
         "property": "Latitude",
         "language": "en"
@@ -137,10 +141,6 @@
     },
     "place": {
         "property": "GeographicLocation",
-        "language": "en"
-    },
-    "doi": {
-        "property": "IsShownAt",
         "language": "en"
     },
     "fullrs": {
