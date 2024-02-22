@@ -108,7 +108,7 @@
         "language": "en"
     },
     "licens": {
-        "property": null,
+        "property": "License",
         "language": "en"
     },
     "transc": {
@@ -124,7 +124,7 @@
         "language": "en"
     },
     "aip": {
-        "property": null,
+        "property": "AIPUUID",
         "language": "en"
     },
     "file": {
