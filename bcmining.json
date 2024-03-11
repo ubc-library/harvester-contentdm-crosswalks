@@ -1,67 +1,147 @@
 {
     "title": {
-        "property": null,
+        "property": "Title",
         "language": "en"
     },
-    "subjec": {
-        "property": null,
-        "language": "en"
-    },
-    "descri": {
-        "property": null,
-        "language": "en"
+    "altern": {
+        "property": "AlternateTitle",
+        "language": false
     },
     "creato": {
-        "property": null,
-        "language": "en"
-    },
-    "publis": {
-        "property": null,
+        "property": "Creator",
         "language": "en"
     },
     "contri": {
-        "property": null,
+        "property": "Contributor",
         "language": "en"
+    },
+    "publis": {
+        "property": "Publisher",
+        "language": "en"
+    },
+    "datea": {
+        "property": "DateCreated",
+        "language": false
     },
     "date": {
-        "property": null,
+        "property": "DateIssued",
         "language": "en"
     },
+    "sort": {
+        "property": "SortDate",
+        "language": false
+    },
+    "abstra": {
+        "property": "Description",
+        "language": false
+    },
+    "extent": {
+        "property": "Extent",
+        "language": false
+    },
+    "subjec": {
+        "property": "Subject",
+        "language": "en"
+    },
+    "subjea": {
+        "property": "GeographicLocation",
+        "language": false
+    },
+    "person": {
+        "property": "PersonOrCorporation",
+        "language": false
+    },
+    "genre": {
+        "property": "Genre",
+        "language": false
+    },
     "type": {
-        "property": null,
+        "property": "Type",
         "language": "en"
     },
     "format": {
-        "property": null,
-        "language": "en"
-    },
-    "identi": {
-        "property": null,
-        "language": "en"
-    },
-    "source": {
-        "property": null,
+        "property": "FileFormat",
         "language": "en"
     },
     "langua": {
-        "property": null,
+        "property": "Language",
+        "language": "en"
+    },
+    "dates": {
+        "property": "Notes",
+        "language": false
+    },
+    "ubc": {
+        "property": "Identifier",
+        "language": false
+    },
+    "access": {
+        "property": "Identifier",
+        "language": false
+    },
+    "identi": {
+        "property": "Identifier",
         "language": "en"
     },
     "relati": {
-        "property": null,
+        "property": "Collection",
         "language": "en"
     },
-    "covera": {
-        "property": null,
-        "language": "en"
+    "reposi": {
+        "property": "Source",
+        "language": false
+    },
+    "dateb": {
+        "property": "DateAvailable",
+        "language": false
+    },
+    "publia": {
+        "property": "Provider",
+        "language": false
     },
     "rights": {
-        "property": null,
+        "property": "Rights",
         "language": "en"
     },
-    "audien": {
+    "licenc": {
+        "property": "License",
+        "language": false
+    },
+    "full": {
+        "property": "FullText",
+        "language": false
+    },
+    "catalo": {
+        "property": "CatalogueRecord",
+        "language": false
+    },
+    "projec": {
         "property": null,
-        "language": "en"
+        "language": false
+    },
+    "aip": {
+        "property": "AIPUUID",
+        "language": false
+    },
+    "file": {
+        "property": null,
+        "language": false
+    },
+    "doi": {
+        "property": "IsShownAt",
+        "language": false
+    },
+    "latitu": {
+        "property": "Latitude",
+        "language": false
+    },
+    "longit": {
+        "property": "Longitude",
+        "language": false
+    },
+    "place": {
+        "property": null,
+        "language": false
     },
     "fullrs": {
         "property": null,
