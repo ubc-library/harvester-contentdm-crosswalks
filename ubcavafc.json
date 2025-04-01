@@ -1,7 +1,7 @@
 {
     "title": {
-        "property": "Title",
-        "language": "en"
+        "property": null,
+        "language": "ab"
     },
     "altern": {
         "property": "AlternateTitle",
@@ -138,6 +138,10 @@
     "source": {
         "property": null,
         "language": "en"
+    },
+    "doi": {
+        "property": null,
+        "language": false
     },
     "fullrs": {
         "property": null,
